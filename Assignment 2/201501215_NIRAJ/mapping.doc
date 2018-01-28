@@ -1,0 +1,43 @@
+PUT book
+{
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "custom_analyzer": {
+          "type":      "custom",
+          "tokenizer": "standard",
+          "char_filter": [
+            "html_strip"
+          ],
+          "filter": [
+            "lowercase",
+            "stop_filter"
+          ]
+        }
+      },
+      
+       "filter": {
+            "stop_filter":{
+                "type": "stop",
+                "stopwords": "_english_"
+            }
+        }
+    }
+  },
+  
+
+  "mappings": {
+    "book": {
+      "properties": {
+        "id": {"type": "integer"},
+                "genre": {"type": "text", "analyzer":"custom_analyzer"},
+                "title": {"type": "text", "analyzer":"custom_analyzer"},
+                "author": {"type": "text", "analyzer":"custom_analyzer"},
+                "publisher": {"type": "text", "analyzer":"custom_analyzer"},
+                "edition": {"type": "integer"}
+
+            }
+        }
+    }
+  
+}

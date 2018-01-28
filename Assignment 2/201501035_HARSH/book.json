@@ -1,0 +1,8002 @@
+[
+ {
+   "id": 1,
+   "genre": "Diaries",
+   "title": "There Was a Father (Chichi ariki)",
+   "author": "Shayne",
+   "publisher": "Teodor",
+   "edition": 2
+ },
+ {
+   "id": 2,
+   "genre": "Journals",
+   "title": "Troll",
+   "author": "Bronson",
+   "publisher": "Guillemette",
+   "edition": 1
+ },
+ {
+   "id": 3,
+   "genre": "Dictionaries",
+   "title": "Disco Pigs",
+   "author": "Pammy",
+   "publisher": "Leisha",
+   "edition": 5
+ },
+ {
+   "id": 4,
+   "genre": "Guide",
+   "title": "Flight Command",
+   "author": "Linda",
+   "publisher": "Linus",
+   "edition": 5
+ },
+ {
+   "id": 5,
+   "genre": "Anthology",
+   "title": "Sibling Rivalry",
+   "author": "Rodie",
+   "publisher": "Lenora",
+   "edition": 5
+ },
+ {
+   "id": 6,
+   "genre": "Encyclopedias",
+   "title": "Matewan",
+   "author": "Wald",
+   "publisher": "Ardys",
+   "edition": 4
+ },
+ {
+   "id": 7,
+   "genre": "Romance",
+   "title": "Quiet Flows the Don (Tikhiy Don)",
+   "author": "Marquita",
+   "publisher": "Jo-ann",
+   "edition": 4
+ },
+ {
+   "id": 8,
+   "genre": "Science fiction",
+   "title": "Circle, The (Dayereh)",
+   "author": "Sadie",
+   "publisher": "Conrade",
+   "edition": 1
+ },
+ {
+   "id": 9,
+   "genre": "academic",
+   "title": "Kurt Cobain: Montage of Heck",
+   "author": "Corena",
+   "publisher": "Zachariah",
+   "edition": 5
+ },
+ {
+   "id": 10,
+   "genre": "Satire",
+   "title": "Tripping the Rift: The Movie",
+   "author": "Austin",
+   "publisher": "Lillis",
+   "edition": 1
+ },
+ {
+   "id": 11,
+   "genre": "Science fiction",
+   "title": "London Paris New York",
+   "author": "Susan",
+   "publisher": "Cully",
+   "edition": 3
+ },
+ {
+   "id": 12,
+   "genre": "Math",
+   "title": "All Dogs Go to Heaven 2",
+   "author": "Hortensia",
+   "publisher": "Dane",
+   "edition": 5
+ },
+ {
+   "id": 13,
+   "genre": "Religion",
+   "title": "Death by China ",
+   "author": "Brigit",
+   "publisher": "Garik",
+   "edition": 4
+ },
+ {
+   "id": 14,
+   "genre": "Encyclopedias",
+   "title": "Bullitt",
+   "author": "Andrus",
+   "publisher": "Kippie",
+   "edition": 5
+ },
+ {
+   "id": 15,
+   "genre": "Cookbooks",
+   "title": "Faster",
+   "author": "Imogene",
+   "publisher": "Shelagh",
+   "edition": 5
+ },
+ {
+   "id": 16,
+   "genre": "Drama",
+   "title": "Good",
+   "author": "Therese",
+   "publisher": "Douglas",
+   "edition": 4
+ },
+ {
+   "id": 17,
+   "genre": "Health",
+   "title": "Vixen!",
+   "author": "Gertrud",
+   "publisher": "Edna",
+   "edition": 5
+ },
+ {
+   "id": 18,
+   "genre": "Mystery",
+   "title": "Beyond Bedlam",
+   "author": "Gannon",
+   "publisher": "Orsola",
+   "edition": 1
+ },
+ {
+   "id": 19,
+   "genre": "Dictionaries",
+   "title": "Excess Baggage",
+   "author": "Janie",
+   "publisher": "Huntlee",
+   "edition": 4
+ },
+ {
+   "id": 20,
+   "genre": "biography",
+   "title": "¡Alambrista! (Illegal, The)",
+   "author": "Mycah",
+   "publisher": "Theo",
+   "edition": 2
+ },
+ {
+   "id": 21,
+   "genre": "Anthology",
+   "title": "Conspiracy, The",
+   "author": "Golda",
+   "publisher": "Alys",
+   "edition": 3
+ },
+ {
+   "id": 22,
+   "genre": "horror",
+   "title": "Stranded",
+   "author": "Lorianne",
+   "publisher": "Earle",
+   "edition": 3
+ },
+ {
+   "id": 23,
+   "genre": "Travel",
+   "title": "Frank",
+   "author": "Roobbie",
+   "publisher": "Corene",
+   "edition": 2
+ },
+ {
+   "id": 24,
+   "genre": "Action and Adventure",
+   "title": "Tai Chi Master (Twin Warriors) (Tai ji: Zhang San Feng)",
+   "author": "Teador",
+   "publisher": "Marietta",
+   "edition": 3
+ },
+ {
+   "id": 25,
+   "genre": "Guide",
+   "title": "Whale, The",
+   "author": "Adolphe",
+   "publisher": "Timotheus",
+   "edition": 2
+ },
+ {
+   "id": 26,
+   "genre": "Guide",
+   "title": "Book Thief, The",
+   "author": "Hobie",
+   "publisher": "Maisey",
+   "edition": 5
+ },
+ {
+   "id": 27,
+   "genre": "Guide",
+   "title": "Fingers",
+   "author": "Norman",
+   "publisher": "Zabrina",
+   "edition": 4
+ },
+ {
+   "id": 28,
+   "genre": "Encyclopedias",
+   "title": "Tuareg: The Desert Warrior (Tuareg - Il guerriero del deserto)",
+   "author": "Margaretha",
+   "publisher": "Josy",
+   "edition": 1
+ },
+ {
+   "id": 29,
+   "genre": "Math",
+   "title": "Evidence ",
+   "author": "Kelwin",
+   "publisher": "Loy",
+   "edition": 2
+ },
+ {
+   "id": 30,
+   "genre": "Horror",
+   "title": "Unmade Beds",
+   "author": "Yolanda",
+   "publisher": "Demetre",
+   "edition": 4
+ },
+ {
+   "id": 31,
+   "genre": "Anthology",
+   "title": "Enemy of the People, An",
+   "author": "Tammie",
+   "publisher": "Gav",
+   "edition": 3
+ },
+ {
+   "id": 32,
+   "genre": "Poetry",
+   "title": "Close-Up (Nema-ye Nazdik)",
+   "author": "Cloris",
+   "publisher": "Linus",
+   "edition": 2
+ },
+ {
+   "id": 33,
+   "genre": "Mystery",
+   "title": "God's Not Dead",
+   "author": "Graeme",
+   "publisher": "Karina",
+   "edition": 5
+ },
+ {
+   "id": 34,
+   "genre": "Health",
+   "title": "Waterland",
+   "author": "Bjorn",
+   "publisher": "Edan",
+   "edition": 4
+ },
+ {
+   "id": 35,
+   "genre": "Self help",
+   "title": "Rocket, The",
+   "author": "Gifford",
+   "publisher": "Rosanna",
+   "edition": 4
+ },
+ {
+   "id": 36,
+   "genre": "Science fiction",
+   "title": "Emperor's Naked Army Marches On, The (Yuki Yukite shingun)",
+   "author": "Elisha",
+   "publisher": "Mendel",
+   "edition": 4
+ },
+ {
+   "id": 37,
+   "genre": "Romance",
+   "title": "All the Way Boys (Più forte, ragazzi!)",
+   "author": "Mord",
+   "publisher": "Jacquie",
+   "edition": 4
+ },
+ {
+   "id": 38,
+   "genre": "Cookbooks",
+   "title": "Winter War (Talvisota)",
+   "author": "Storm",
+   "publisher": "Trevor",
+   "edition": 4
+ },
+ {
+   "id": 39,
+   "genre": "Diaries",
+   "title": "Once Upon a Time in China II (Wong Fei-hung Ji Yi: Naam yi dong ji keung)",
+   "author": "Phillipe",
+   "publisher": "Barde",
+   "edition": 1
+ },
+ {
+   "id": 40,
+   "genre": "Romance",
+   "title": "Woodstock Diary",
+   "author": "Ida",
+   "publisher": "Dusty",
+   "edition": 3
+ },
+ {
+   "id": 41,
+   "genre": "Health",
+   "title": "Abelar: Tales of an Ancient Empire (Tales of an Ancient Empire)",
+   "author": "Rem",
+   "publisher": "Sam",
+   "edition": 1
+ },
+ {
+   "id": 42,
+   "genre": "Art",
+   "title": "Batman Unmasked: The Psychology of the Dark Knight",
+   "author": "Idaline",
+   "publisher": "Brennen",
+   "edition": 1
+ },
+ {
+   "id": 43,
+   "genre": "Encyclopedias",
+   "title": "13 Rue Madeleine",
+   "author": "Jeane",
+   "publisher": "Brander",
+   "edition": 2
+ },
+ {
+   "id": 44,
+   "genre": "Journals",
+   "title": "Entertaining Angels: The Dorothy Day Story",
+   "author": "Philly",
+   "publisher": "Esdras",
+   "edition": 5
+ },
+ {
+   "id": 45,
+   "genre": "horror",
+   "title": "After Last Season",
+   "author": "Sarah",
+   "publisher": "Broderic",
+   "edition": 3
+ },
+ {
+   "id": 46,
+   "genre": "horror",
+   "title": "My Friend Flicka",
+   "author": "Euphemia",
+   "publisher": "Tatum",
+   "edition": 3
+ },
+ {
+   "id": 47,
+   "genre": "Guide",
+   "title": "Children of the Secret State",
+   "author": "Gary",
+   "publisher": "Seth",
+   "edition": 5
+ },
+ {
+   "id": 48,
+   "genre": "Romance",
+   "title": "Hotel Very Welcome",
+   "author": "Goraud",
+   "publisher": "Dun",
+   "edition": 3
+ },
+ {
+   "id": 49,
+   "genre": "Math",
+   "title": "Slam Dunk Ernest",
+   "author": "Eachelle",
+   "publisher": "Winnie",
+   "edition": 3
+ },
+ {
+   "id": 50,
+   "genre": "Journals",
+   "title": "Dorm Daze (National Lampoon Presents Dorm Daze)",
+   "author": "Madel",
+   "publisher": "Ninon",
+   "edition": 5
+ },
+ {
+   "id": 51,
+   "genre": "Poetry",
+   "title": "Once Upon a Time in the Midlands",
+   "author": "Beatriz",
+   "publisher": "Moria",
+   "edition": 4
+ },
+ {
+   "id": 52,
+   "genre": "Mystery",
+   "title": "Deception",
+   "author": "Corney",
+   "publisher": "Annmarie",
+   "edition": 1
+ },
+ {
+   "id": 53,
+   "genre": "Art",
+   "title": "C.S.A.: The Confederate States of America",
+   "author": "Suzanna",
+   "publisher": "Minerva",
+   "edition": 2
+ },
+ {
+   "id": 54,
+   "genre": "Journals",
+   "title": "Best Boy",
+   "author": "Kara-lynn",
+   "publisher": "Berenice",
+   "edition": 5
+ },
+ {
+   "id": 55,
+   "genre": "Health",
+   "title": "My Blue Heaven",
+   "author": "Heath",
+   "publisher": "Harlan",
+   "edition": 3
+ },
+ {
+   "id": 56,
+   "genre": "Horror",
+   "title": "Hi-Lo Country, The",
+   "author": "Olimpia",
+   "publisher": "Lazaro",
+   "edition": 5
+ },
+ {
+   "id": 57,
+   "genre": "Travel",
+   "title": "Invincible",
+   "author": "Armin",
+   "publisher": "Thaddus",
+   "edition": 5
+ },
+ {
+   "id": 58,
+   "genre": "Self help",
+   "title": "Flight from Death: The Quest for Immortality",
+   "author": "Roderick",
+   "publisher": "Sissie",
+   "edition": 5
+ },
+ {
+   "id": 59,
+   "genre": "Comics",
+   "title": "Reign Over Me",
+   "author": "Retha",
+   "publisher": "Doreen",
+   "edition": 4
+ },
+ {
+   "id": 60,
+   "genre": "Travel",
+   "title": "Special",
+   "author": "Steven",
+   "publisher": "Isador",
+   "edition": 1
+ },
+ {
+   "id": 61,
+   "genre": "academic",
+   "title": "Employee of the Month",
+   "author": "Pegeen",
+   "publisher": "Sandro",
+   "edition": 4
+ },
+ {
+   "id": 62,
+   "genre": "Horror",
+   "title": "It's a Bikini World",
+   "author": "Hermine",
+   "publisher": "Currey",
+   "edition": 3
+ },
+ {
+   "id": 63,
+   "genre": "Mystery",
+   "title": "Gentleman's Game, A",
+   "author": "Brynna",
+   "publisher": "Margery",
+   "edition": 5
+ },
+ {
+   "id": 64,
+   "genre": "horror",
+   "title": "Cave of Forgotten Dreams",
+   "author": "Scotti",
+   "publisher": "Mirna",
+   "edition": 5
+ },
+ {
+   "id": 65,
+   "genre": "Dictionaries",
+   "title": "Washington Heights",
+   "author": "Britni",
+   "publisher": "Maighdiln",
+   "edition": 5
+ },
+ {
+   "id": 66,
+   "genre": "Encyclopedias",
+   "title": "Man in the White Suit, The",
+   "author": "Blair",
+   "publisher": "Berne",
+   "edition": 4
+ },
+ {
+   "id": 67,
+   "genre": "Travel",
+   "title": "Allegheny Uprising",
+   "author": "Valaree",
+   "publisher": "Dyan",
+   "edition": 4
+ },
+ {
+   "id": 68,
+   "genre": "Religion",
+   "title": "Hard Target",
+   "author": "Maxy",
+   "publisher": "Jessamine",
+   "edition": 5
+ },
+ {
+   "id": 69,
+   "genre": "Diaries",
+   "title": "Charlie: The Life and Art of Charles Chaplin",
+   "author": "Mychal",
+   "publisher": "Buckie",
+   "edition": 3
+ },
+ {
+   "id": 70,
+   "genre": "Science fiction",
+   "title": "Brotherhood",
+   "author": "Berkeley",
+   "publisher": "Alex",
+   "edition": 4
+ },
+ {
+   "id": 71,
+   "genre": "Self help",
+   "title": "Ran",
+   "author": "Tootsie",
+   "publisher": "Ailina",
+   "edition": 5
+ },
+ {
+   "id": 72,
+   "genre": "Drama",
+   "title": "Something Wild",
+   "author": "Livvie",
+   "publisher": "Korella",
+   "edition": 2
+ },
+ {
+   "id": 73,
+   "genre": "Mystery",
+   "title": "Talking Picture, A (Um Filme Falado)",
+   "author": "Audi",
+   "publisher": "Norbie",
+   "edition": 3
+ },
+ {
+   "id": 74,
+   "genre": "Poetry",
+   "title": "Cold Fever (Á köldum klaka)",
+   "author": "Duncan",
+   "publisher": "Fonz",
+   "edition": 2
+ },
+ {
+   "id": 75,
+   "genre": "Health",
+   "title": "Angels Crest",
+   "author": "Lianne",
+   "publisher": "Moselle",
+   "edition": 2
+ },
+ {
+   "id": 76,
+   "genre": "Poetry",
+   "title": "Cuckoo in a Dark Forest (Kukacka v temném lese) ",
+   "author": "Dory",
+   "publisher": "Kiele",
+   "edition": 3
+ },
+ {
+   "id": 77,
+   "genre": "Religion",
+   "title": "Violette",
+   "author": "Sacha",
+   "publisher": "Odo",
+   "edition": 2
+ },
+ {
+   "id": 78,
+   "genre": "History",
+   "title": "Good Men, Good Women (Hao nan hao nu)",
+   "author": "Reed",
+   "publisher": "Mitchel",
+   "edition": 2
+ },
+ {
+   "id": 79,
+   "genre": "History",
+   "title": "Yellow Sea, The (a.k.a. The Murderer) (Hwanghae)",
+   "author": "Michelina",
+   "publisher": "Vivien",
+   "edition": 3
+ },
+ {
+   "id": 80,
+   "genre": "Religion",
+   "title": "Cargo",
+   "author": "Judon",
+   "publisher": "Rafe",
+   "edition": 4
+ },
+ {
+   "id": 81,
+   "genre": "Dictionaries",
+   "title": "Where the Red Fern Grows",
+   "author": "Penny",
+   "publisher": "Jewel",
+   "edition": 3
+ },
+ {
+   "id": 82,
+   "genre": " Spirituality & New Age",
+   "title": "Wonderland",
+   "author": "Danika",
+   "publisher": "Marissa",
+   "edition": 1
+ },
+ {
+   "id": 83,
+   "genre": "Journals",
+   "title": "On a marché sur Bangkok",
+   "author": "Nollie",
+   "publisher": "Emelina",
+   "edition": 3
+ },
+ {
+   "id": 84,
+   "genre": "Encyclopedias",
+   "title": "Love Comes Softly",
+   "author": "Leigh",
+   "publisher": "Nicol",
+   "edition": 4
+ },
+ {
+   "id": 85,
+   "genre": "Dictionaries",
+   "title": "Oklahoma Crude",
+   "author": "Minette",
+   "publisher": "Tamqrah",
+   "edition": 1
+ },
+ {
+   "id": 86,
+   "genre": "Diaries",
+   "title": "Chiko",
+   "author": "Virginia",
+   "publisher": "Simona",
+   "edition": 2
+ },
+ {
+   "id": 87,
+   "genre": "Romance",
+   "title": "Battered Bastards of Baseball, The",
+   "author": "Amalle",
+   "publisher": "Olivero",
+   "edition": 5
+ },
+ {
+   "id": 88,
+   "genre": "Children's",
+   "title": "Perfect World, A",
+   "author": "Nora",
+   "publisher": "Tabby",
+   "edition": 3
+ },
+ {
+   "id": 89,
+   "genre": "Encyclopedias",
+   "title": "Carmen Miranda: Bananas Is My Business",
+   "author": "Harmony",
+   "publisher": "Briggs",
+   "edition": 4
+ },
+ {
+   "id": 90,
+   "genre": "Poetry",
+   "title": "Music Man, The",
+   "author": "Dix",
+   "publisher": "Elfie",
+   "edition": 3
+ },
+ {
+   "id": 91,
+   "genre": "horror",
+   "title": "Once Upon a Time in Queens",
+   "author": "Liana",
+   "publisher": "Gun",
+   "edition": 1
+ },
+ {
+   "id": 92,
+   "genre": "Encyclopedias",
+   "title": "Hellraiser",
+   "author": "Kelci",
+   "publisher": "Blair",
+   "edition": 3
+ },
+ {
+   "id": 93,
+   "genre": " Spirituality & New Age",
+   "title": "Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues",
+   "author": "Zerk",
+   "publisher": "Shelly",
+   "edition": 3
+ },
+ {
+   "id": 94,
+   "genre": "Science fiction",
+   "title": "Battle of the Rails, The (La bataille du rail)",
+   "author": "Raquel",
+   "publisher": "Gabi",
+   "edition": 4
+ },
+ {
+   "id": 95,
+   "genre": "academic",
+   "title": "In Old California",
+   "author": "Stephan",
+   "publisher": "Udall",
+   "edition": 1
+ },
+ {
+   "id": 96,
+   "genre": "Journals",
+   "title": "Interceptor",
+   "author": "Barnabe",
+   "publisher": "Merl",
+   "edition": 3
+ },
+ {
+   "id": 97,
+   "genre": "Mystery",
+   "title": "Snowballs",
+   "author": "Eulalie",
+   "publisher": "Gabby",
+   "edition": 2
+ },
+ {
+   "id": 98,
+   "genre": "Horror",
+   "title": "Glumov's Diary (Dnevnik Glumova)",
+   "author": "Gene",
+   "publisher": "Padriac",
+   "edition": 1
+ },
+ {
+   "id": 99,
+   "genre": "Self help",
+   "title": "Susana (Devil and the Flesh, The)",
+   "author": "Nanci",
+   "publisher": "Skipp",
+   "edition": 2
+ },
+ {
+   "id": 100,
+   "genre": "Health",
+   "title": "Virgin Spring, The (Jungfrukällan)",
+   "author": "Tiff",
+   "publisher": "Brandais",
+   "edition": 2
+ },
+ {
+   "id": 101,
+   "genre": "Science",
+   "title": "Mission Bloody Mary",
+   "author": "Sheelah",
+   "publisher": "Kahlil",
+   "edition": 3
+ },
+ {
+   "id": 102,
+   "genre": "Self help",
+   "title": "April Captains (Capitães de Abril)",
+   "author": "Cathyleen",
+   "publisher": "Lucina",
+   "edition": 5
+ },
+ {
+   "id": 103,
+   "genre": "Drama",
+   "title": "Yank in the R.A.F., A",
+   "author": "Ike",
+   "publisher": "Axel",
+   "edition": 5
+ },
+ {
+   "id": 104,
+   "genre": "Mystery",
+   "title": "Chain of Command",
+   "author": "Johny",
+   "publisher": "Garland",
+   "edition": 4
+ },
+ {
+   "id": 105,
+   "genre": "Math",
+   "title": "Big Shot's Funeral (Da Wan)",
+   "author": "Addie",
+   "publisher": "Gratiana",
+   "edition": 4
+ },
+ {
+   "id": 106,
+   "genre": "Math",
+   "title": "Dark Habits (Entre tinieblas)",
+   "author": "Allina",
+   "publisher": "George",
+   "edition": 1
+ },
+ {
+   "id": 107,
+   "genre": "Romance",
+   "title": "Young and the Damned, The (Olvidados, Los)",
+   "author": "Eolande",
+   "publisher": "Luther",
+   "edition": 1
+ },
+ {
+   "id": 108,
+   "genre": "Guide",
+   "title": "Ganes",
+   "author": "Mitch",
+   "publisher": "Mab",
+   "edition": 2
+ },
+ {
+   "id": 109,
+   "genre": "Art",
+   "title": "Before Night Falls",
+   "author": "Armin",
+   "publisher": "Salomi",
+   "edition": 1
+ },
+ {
+   "id": 110,
+   "genre": "Travel",
+   "title": "Promised Land",
+   "author": "Flint",
+   "publisher": "Faydra",
+   "edition": 4
+ },
+ {
+   "id": 111,
+   "genre": "Action and Adventure",
+   "title": "Island, The",
+   "author": "Brian",
+   "publisher": "Dulcinea",
+   "edition": 5
+ },
+ {
+   "id": 112,
+   "genre": "Diaries",
+   "title": "Mr. Deeds Goes to Town",
+   "author": "Adina",
+   "publisher": "Elnora",
+   "edition": 5
+ },
+ {
+   "id": 113,
+   "genre": "biography",
+   "title": "Man in the Iron Mask, The",
+   "author": "Ferdinande",
+   "publisher": "Rosabelle",
+   "edition": 3
+ },
+ {
+   "id": 114,
+   "genre": "Cookbooks",
+   "title": "Night and the City",
+   "author": "Morlee",
+   "publisher": "Dollie",
+   "edition": 4
+ },
+ {
+   "id": 115,
+   "genre": "Science",
+   "title": "Thousand Cuts, A",
+   "author": "Beulah",
+   "publisher": "Marsiella",
+   "edition": 4
+ },
+ {
+   "id": 116,
+   "genre": "Science fiction",
+   "title": "They Only Kill Their Masters",
+   "author": "Ernst",
+   "publisher": "Honey",
+   "edition": 2
+ },
+ {
+   "id": 117,
+   "genre": "Art",
+   "title": "20,000 Leagues Under the Sea",
+   "author": "Inge",
+   "publisher": "Jacki",
+   "edition": 4
+ },
+ {
+   "id": 118,
+   "genre": "Drama",
+   "title": "Condition Red (Beyond the Law)",
+   "author": "Francoise",
+   "publisher": "Fleurette",
+   "edition": 1
+ },
+ {
+   "id": 119,
+   "genre": "Science",
+   "title": "Killing Lincoln",
+   "author": "Gerik",
+   "publisher": "Johnna",
+   "edition": 2
+ },
+ {
+   "id": 120,
+   "genre": "Dictionaries",
+   "title": "Carriers",
+   "author": "Kayne",
+   "publisher": "Robinet",
+   "edition": 1
+ },
+ {
+   "id": 121,
+   "genre": "Health",
+   "title": "Jeepers Creepers 2",
+   "author": "Giffy",
+   "publisher": "Tommie",
+   "edition": 1
+ },
+ {
+   "id": 122,
+   "genre": "Horror",
+   "title": "Blue Kite, The (Lan feng zheng)",
+   "author": "Emerson",
+   "publisher": "Esteban",
+   "edition": 2
+ },
+ {
+   "id": 123,
+   "genre": "Romance",
+   "title": "Normal Heart, The",
+   "author": "Mahala",
+   "publisher": "Fransisco",
+   "edition": 5
+ },
+ {
+   "id": 124,
+   "genre": "Drama",
+   "title": "PCU",
+   "author": "Tadio",
+   "publisher": "Dionysus",
+   "edition": 2
+ },
+ {
+   "id": 125,
+   "genre": "Math",
+   "title": "Ten Inch Hero",
+   "author": "Marna",
+   "publisher": "Albrecht",
+   "edition": 4
+ },
+ {
+   "id": 126,
+   "genre": "Health",
+   "title": "Bells of St. Mary's, The",
+   "author": "Broderic",
+   "publisher": "Micky",
+   "edition": 1
+ },
+ {
+   "id": 127,
+   "genre": " Spirituality & New Age",
+   "title": "Dante's Inferno Animated",
+   "author": "Tanny",
+   "publisher": "Orazio",
+   "edition": 3
+ },
+ {
+   "id": 128,
+   "genre": "Self help",
+   "title": "Blue Juice",
+   "author": "Ettore",
+   "publisher": "Jourdain",
+   "edition": 1
+ },
+ {
+   "id": 129,
+   "genre": "Guide",
+   "title": "Grass Harp, The",
+   "author": "Abdul",
+   "publisher": "Brinna",
+   "edition": 5
+ },
+ {
+   "id": 130,
+   "genre": "Health",
+   "title": "Avenging Conscience, The",
+   "author": "Jephthah",
+   "publisher": "Dorena",
+   "edition": 5
+ },
+ {
+   "id": 131,
+   "genre": "horror",
+   "title": "Rutles 2: Can't Buy Me Lunch, The",
+   "author": "Eal",
+   "publisher": "Sarajane",
+   "edition": 3
+ },
+ {
+   "id": 132,
+   "genre": "Art",
+   "title": "Kind Lady",
+   "author": "Gene",
+   "publisher": "Walther",
+   "edition": 1
+ },
+ {
+   "id": 133,
+   "genre": "Anthology",
+   "title": "The Dark Knight",
+   "author": "Blondie",
+   "publisher": "Gar",
+   "edition": 5
+ },
+ {
+   "id": 134,
+   "genre": "Art",
+   "title": "One Spy Too Many",
+   "author": "Ewan",
+   "publisher": "Prince",
+   "edition": 3
+ },
+ {
+   "id": 135,
+   "genre": "biography",
+   "title": "Diana Vreeland: The Eye Has to Travel",
+   "author": "Em",
+   "publisher": "Glenden",
+   "edition": 2
+ },
+ {
+   "id": 136,
+   "genre": "Cookbooks",
+   "title": "Starflight: The Plane That Couldn't Land",
+   "author": "Tine",
+   "publisher": "Danie",
+   "edition": 4
+ },
+ {
+   "id": 137,
+   "genre": "Health",
+   "title": "Three Musketeers, The",
+   "author": "Tore",
+   "publisher": "Rosie",
+   "edition": 4
+ },
+ {
+   "id": 138,
+   "genre": "Travel",
+   "title": "Brief Vacation, A (breve vacanza, Una)",
+   "author": "Catriona",
+   "publisher": "Nikoletta",
+   "edition": 1
+ },
+ {
+   "id": 139,
+   "genre": "Dictionaries",
+   "title": "Tulpan",
+   "author": "Zacharia",
+   "publisher": "Redford",
+   "edition": 3
+ },
+ {
+   "id": 140,
+   "genre": "Drama",
+   "title": "Quiet, The",
+   "author": "Ignatius",
+   "publisher": "Filip",
+   "edition": 3
+ },
+ {
+   "id": 141,
+   "genre": "Travel",
+   "title": "Children of the Corn",
+   "author": "Sophie",
+   "publisher": "Bell",
+   "edition": 3
+ },
+ {
+   "id": 142,
+   "genre": "Mystery",
+   "title": "Pure",
+   "author": "Lodovico",
+   "publisher": "Robbi",
+   "edition": 3
+ },
+ {
+   "id": 143,
+   "genre": "Science fiction",
+   "title": "Downloaded",
+   "author": "Sammy",
+   "publisher": "Nisse",
+   "edition": 1
+ },
+ {
+   "id": 144,
+   "genre": "Math",
+   "title": "Shy People",
+   "author": "Cyrillus",
+   "publisher": "Liam",
+   "edition": 3
+ },
+ {
+   "id": 145,
+   "genre": "Dictionaries",
+   "title": "Valmont",
+   "author": "Rebekkah",
+   "publisher": "Robby",
+   "edition": 3
+ },
+ {
+   "id": 146,
+   "genre": "Drama",
+   "title": "Two Deaths",
+   "author": "Olympia",
+   "publisher": "Elianora",
+   "edition": 2
+ },
+ {
+   "id": 147,
+   "genre": "Guide",
+   "title": "Adventures of Hajji Baba, The",
+   "author": "Calla",
+   "publisher": "Perice",
+   "edition": 2
+ },
+ {
+   "id": 148,
+   "genre": "biography",
+   "title": "Heaven Is for Real",
+   "author": "Margarette",
+   "publisher": "Benny",
+   "edition": 5
+ },
+ {
+   "id": 149,
+   "genre": "Poetry",
+   "title": "Dying Breed",
+   "author": "Beniamino",
+   "publisher": "Sayer",
+   "edition": 4
+ },
+ {
+   "id": 150,
+   "genre": "Comics",
+   "title": "Idol of the Crowds",
+   "author": "Carlita",
+   "publisher": "Randie",
+   "edition": 4
+ },
+ {
+   "id": 151,
+   "genre": "Science fiction",
+   "title": "OSS 117: Cairo, Nest of Spies (OSS 117: Le Caire nid d'espions)",
+   "author": "Axel",
+   "publisher": "Elonore",
+   "edition": 5
+ },
+ {
+   "id": 152,
+   "genre": "Religion",
+   "title": "Reclaim Your Brain (Free Rainer)",
+   "author": "Blake",
+   "publisher": "Stephanus",
+   "edition": 3
+ },
+ {
+   "id": 153,
+   "genre": "History",
+   "title": "Apartment Zero",
+   "author": "Frank",
+   "publisher": "Bendicty",
+   "edition": 1
+ },
+ {
+   "id": 154,
+   "genre": "Math",
+   "title": "White God (Fehér isten)",
+   "author": "Lind",
+   "publisher": "Elisha",
+   "edition": 1
+ },
+ {
+   "id": 155,
+   "genre": "Drama",
+   "title": "Zulu",
+   "author": "Katey",
+   "publisher": "Jamima",
+   "edition": 4
+ },
+ {
+   "id": 156,
+   "genre": "Encyclopedias",
+   "title": "Police Academy 6: City Under Siege",
+   "author": "Teddi",
+   "publisher": "Dougy",
+   "edition": 4
+ },
+ {
+   "id": 157,
+   "genre": "Mystery",
+   "title": "American Raspberry (Prime Time) (Funny America)",
+   "author": "Glen",
+   "publisher": "Harper",
+   "edition": 4
+ },
+ {
+   "id": 158,
+   "genre": " Spirituality & New Age",
+   "title": "Love Song for Bobby Long, A",
+   "author": "Barbara-anne",
+   "publisher": "Kassandra",
+   "edition": 2
+ },
+ {
+   "id": 159,
+   "genre": "Self help",
+   "title": "Woman in The Septic Tank, The (Ang Babae sa septic tank)",
+   "author": "Dietrich",
+   "publisher": "Erica",
+   "edition": 2
+ },
+ {
+   "id": 160,
+   "genre": "Cookbooks",
+   "title": "Surplus: Terrorized Into Being Consumers",
+   "author": "Noelyn",
+   "publisher": "Xylina",
+   "edition": 2
+ },
+ {
+   "id": 161,
+   "genre": "Horror",
+   "title": "Tiger from Tjampa, The (Harimau Tjampa)",
+   "author": "Alice",
+   "publisher": "Lucilia",
+   "edition": 2
+ },
+ {
+   "id": 162,
+   "genre": "Poetry",
+   "title": "Blade of the Ripper",
+   "author": "Zea",
+   "publisher": "Astrix",
+   "edition": 5
+ },
+ {
+   "id": 163,
+   "genre": "horror",
+   "title": "Daisy Miller",
+   "author": "Magdalen",
+   "publisher": "Jenn",
+   "edition": 5
+ },
+ {
+   "id": 164,
+   "genre": "Math",
+   "title": "Mélo",
+   "author": "Toddy",
+   "publisher": "Jorrie",
+   "edition": 2
+ },
+ {
+   "id": 165,
+   "genre": "Dictionaries",
+   "title": "Fierce Light: When Spirit Meets Action",
+   "author": "Bondon",
+   "publisher": "Dudley",
+   "edition": 5
+ },
+ {
+   "id": 166,
+   "genre": "horror",
+   "title": "Act Da Fool",
+   "author": "Juli",
+   "publisher": "Mike",
+   "edition": 4
+ },
+ {
+   "id": 167,
+   "genre": "Poetry",
+   "title": "Day the Sun Turned Cold, The (Tianguo niezi)",
+   "author": "Christa",
+   "publisher": "Astrid",
+   "edition": 1
+ },
+ {
+   "id": 168,
+   "genre": "Horror",
+   "title": "In My Country (a.k.a. Country of My Skull)",
+   "author": "Gallard",
+   "publisher": "Gerrard",
+   "edition": 5
+ },
+ {
+   "id": 169,
+   "genre": "biography",
+   "title": "Light It Up",
+   "author": "Lannie",
+   "publisher": "Daphna",
+   "edition": 1
+ },
+ {
+   "id": 170,
+   "genre": "Religion",
+   "title": "War Lord, The",
+   "author": "Dorisa",
+   "publisher": "Sandor",
+   "edition": 4
+ },
+ {
+   "id": 171,
+   "genre": " Spirituality & New Age",
+   "title": "Maxed Out: Hard Times, Easy Credit and the Era of Predatory Lenders",
+   "author": "Terra",
+   "publisher": "Gabi",
+   "edition": 3
+ },
+ {
+   "id": 172,
+   "genre": "Mystery",
+   "title": "Monster-in-Law",
+   "author": "Florry",
+   "publisher": "Aksel",
+   "edition": 3
+ },
+ {
+   "id": 173,
+   "genre": "Dictionaries",
+   "title": "All the Colors of the Dark",
+   "author": "Westley",
+   "publisher": "Sherwynd",
+   "edition": 5
+ },
+ {
+   "id": 174,
+   "genre": "Dictionaries",
+   "title": "Great Rock 'n' Roll Swindle, The",
+   "author": "Nara",
+   "publisher": "Romy",
+   "edition": 1
+ },
+ {
+   "id": 175,
+   "genre": "Action and Adventure",
+   "title": "In Fear",
+   "author": "Cyrill",
+   "publisher": "Rodrigo",
+   "edition": 2
+ },
+ {
+   "id": 176,
+   "genre": "Health",
+   "title": "Zoo",
+   "author": "Renata",
+   "publisher": "Thatcher",
+   "edition": 2
+ },
+ {
+   "id": 177,
+   "genre": "Travel",
+   "title": "Girl Can't Help It, The",
+   "author": "Barnebas",
+   "publisher": "Mar",
+   "edition": 4
+ },
+ {
+   "id": 178,
+   "genre": "Action and Adventure",
+   "title": "Stage Struck",
+   "author": "Hermon",
+   "publisher": "Bobine",
+   "edition": 3
+ },
+ {
+   "id": 179,
+   "genre": "Horror",
+   "title": "Women Robbers (Diebinnen)",
+   "author": "Morgan",
+   "publisher": "Quintilla",
+   "edition": 4
+ },
+ {
+   "id": 180,
+   "genre": "Diaries",
+   "title": "Paragraph 175",
+   "author": "Bobette",
+   "publisher": "Mallissa",
+   "edition": 1
+ },
+ {
+   "id": 181,
+   "genre": " Spirituality & New Age",
+   "title": "Funny Bones",
+   "author": "Sib",
+   "publisher": "Drusi",
+   "edition": 5
+ },
+ {
+   "id": 182,
+   "genre": " Spirituality & New Age",
+   "title": "Homem Que Desafiou o Diabo, O",
+   "author": "Cybil",
+   "publisher": "Kevyn",
+   "edition": 2
+ },
+ {
+   "id": 183,
+   "genre": "Dictionaries",
+   "title": "You Got Served",
+   "author": "Falkner",
+   "publisher": "Car",
+   "edition": 3
+ },
+ {
+   "id": 184,
+   "genre": "Religion",
+   "title": "1001 Nights",
+   "author": "Adelice",
+   "publisher": "Cornie",
+   "edition": 4
+ },
+ {
+   "id": 185,
+   "genre": "Satire",
+   "title": "Ghosts of Girlfriends Past",
+   "author": "Findlay",
+   "publisher": "Glen",
+   "edition": 3
+ },
+ {
+   "id": 186,
+   "genre": "academic",
+   "title": "Britannia Hospital",
+   "author": "Towny",
+   "publisher": "Shandy",
+   "edition": 4
+ },
+ {
+   "id": 187,
+   "genre": "Drama",
+   "title": "First Love",
+   "author": "Geordie",
+   "publisher": "Ilaire",
+   "edition": 3
+ },
+ {
+   "id": 188,
+   "genre": "Science fiction",
+   "title": "Dumb and Dumberer: When Harry Met Lloyd",
+   "author": "Robinet",
+   "publisher": "Guillaume",
+   "edition": 5
+ },
+ {
+   "id": 189,
+   "genre": "Health",
+   "title": "Pirates of the Great Salt Lake",
+   "author": "Alric",
+   "publisher": "Chad",
+   "edition": 3
+ },
+ {
+   "id": 190,
+   "genre": "Poetry",
+   "title": "Man Escaped, A (Un  condamné à mort s'est échappé ou Le vent souffle où il veut)",
+   "author": "Myrtia",
+   "publisher": "Spencer",
+   "edition": 4
+ },
+ {
+   "id": 191,
+   "genre": "Self help",
+   "title": "Let No Man Write My Epitaph",
+   "author": "Chloris",
+   "publisher": "Stormy",
+   "edition": 1
+ },
+ {
+   "id": 192,
+   "genre": "Poetry",
+   "title": "Hotel Reserve",
+   "author": "Krispin",
+   "publisher": "Prudi",
+   "edition": 3
+ },
+ {
+   "id": 193,
+   "genre": "Travel",
+   "title": "Ffolkes",
+   "author": "Adolphus",
+   "publisher": "Paton",
+   "edition": 3
+ },
+ {
+   "id": 194,
+   "genre": " Spirituality & New Age",
+   "title": "We Are Legion: The Story of the Hacktivists",
+   "author": "Nance",
+   "publisher": "Tamar",
+   "edition": 2
+ },
+ {
+   "id": 195,
+   "genre": "Mystery",
+   "title": "Big Daddy",
+   "author": "Pam",
+   "publisher": "Casi",
+   "edition": 5
+ },
+ {
+   "id": 196,
+   "genre": "Science fiction",
+   "title": "Night at the Museum: Secret of the Tomb",
+   "author": "Kennie",
+   "publisher": "Eirena",
+   "edition": 4
+ },
+ {
+   "id": 197,
+   "genre": "Anthology",
+   "title": "Confiance règne, La",
+   "author": "Kenyon",
+   "publisher": "Kenn",
+   "edition": 1
+ },
+ {
+   "id": 198,
+   "genre": "Travel",
+   "title": "Dirty Rotten Scoundrels",
+   "author": "Raphael",
+   "publisher": "Cynthia",
+   "edition": 2
+ },
+ {
+   "id": 199,
+   "genre": "Science fiction",
+   "title": "Rose Tattoo, The",
+   "author": "Bevvy",
+   "publisher": "Karly",
+   "edition": 5
+ },
+ {
+   "id": 200,
+   "genre": "Science",
+   "title": "Ordeal, The (Calvaire)",
+   "author": "Megen",
+   "publisher": "Elyse",
+   "edition": 1
+ },
+ {
+   "id": 201,
+   "genre": "Dictionaries",
+   "title": "Casanova",
+   "author": "Jerrilee",
+   "publisher": "Ian",
+   "edition": 1
+ },
+ {
+   "id": 202,
+   "genre": "Science fiction",
+   "title": "Dealer",
+   "author": "Creighton",
+   "publisher": "Chrisse",
+   "edition": 4
+ },
+ {
+   "id": 203,
+   "genre": "Satire",
+   "title": "Brokeback Mountain",
+   "author": "Corie",
+   "publisher": "Gwenny",
+   "edition": 4
+ },
+ {
+   "id": 204,
+   "genre": "Diaries",
+   "title": "Me & Isaac Newton",
+   "author": "Starr",
+   "publisher": "Olly",
+   "edition": 1
+ },
+ {
+   "id": 205,
+   "genre": "Journals",
+   "title": "Los Marziano",
+   "author": "Baxy",
+   "publisher": "Verna",
+   "edition": 2
+ },
+ {
+   "id": 206,
+   "genre": "horror",
+   "title": "Make Them Die Slowly (Cannibal Ferox)",
+   "author": "Bryanty",
+   "publisher": "Olivero",
+   "edition": 1
+ },
+ {
+   "id": 207,
+   "genre": "Action and Adventure",
+   "title": "House of Dark Shadows",
+   "author": "Cynthy",
+   "publisher": "Whittaker",
+   "edition": 5
+ },
+ {
+   "id": 208,
+   "genre": "Self help",
+   "title": "Love Story",
+   "author": "Sam",
+   "publisher": "Inglebert",
+   "edition": 2
+ },
+ {
+   "id": 209,
+   "genre": "Satire",
+   "title": "Tales from the Darkside: The Movie",
+   "author": "Britney",
+   "publisher": "Winny",
+   "edition": 5
+ },
+ {
+   "id": 210,
+   "genre": "Cookbooks",
+   "title": "Dragonwyck",
+   "author": "Catie",
+   "publisher": "Keen",
+   "edition": 4
+ },
+ {
+   "id": 211,
+   "genre": "Satire",
+   "title": "Day the Earth Stood Still, The",
+   "author": "Jolie",
+   "publisher": "Araldo",
+   "edition": 2
+ },
+ {
+   "id": 212,
+   "genre": "Drama",
+   "title": "Glitterbug",
+   "author": "Ronald",
+   "publisher": "Godwin",
+   "edition": 3
+ },
+ {
+   "id": 213,
+   "genre": "Travel",
+   "title": "Mommy",
+   "author": "Darill",
+   "publisher": "Luci",
+   "edition": 5
+ },
+ {
+   "id": 214,
+   "genre": "Guide",
+   "title": "Innocent, The",
+   "author": "Zachary",
+   "publisher": "Laural",
+   "edition": 5
+ },
+ {
+   "id": 215,
+   "genre": "Children's",
+   "title": "Winnie the Pooh and a Day for Eeyore",
+   "author": "Dulcie",
+   "publisher": "Dannie",
+   "edition": 4
+ },
+ {
+   "id": 216,
+   "genre": "biography",
+   "title": "Chronicle of Anna Magdalena Bach, The (Chronik der Anna Magdalena Bach)",
+   "author": "Josselyn",
+   "publisher": "Homere",
+   "edition": 4
+ },
+ {
+   "id": 217,
+   "genre": "Science fiction",
+   "title": "Cinderella",
+   "author": "Winona",
+   "publisher": "Myrtie",
+   "edition": 4
+ },
+ {
+   "id": 218,
+   "genre": "Action and Adventure",
+   "title": "Banana Joe",
+   "author": "Karrah",
+   "publisher": "Hewie",
+   "edition": 1
+ },
+ {
+   "id": 219,
+   "genre": "Journals",
+   "title": "Austin Powers: International Man of Mystery",
+   "author": "Bryna",
+   "publisher": "Kippy",
+   "edition": 1
+ },
+ {
+   "id": 220,
+   "genre": "Journals",
+   "title": "Bianca Beauchamp: All Access",
+   "author": "Trever",
+   "publisher": "Thurston",
+   "edition": 4
+ },
+ {
+   "id": 221,
+   "genre": "Encyclopedias",
+   "title": "Sparrow (a.k.a. Cultured Bird) (Man jeuk)",
+   "author": "Carline",
+   "publisher": "Rheba",
+   "edition": 4
+ },
+ {
+   "id": 222,
+   "genre": "Satire",
+   "title": "Space Is The Place",
+   "author": "Brandea",
+   "publisher": "Johna",
+   "edition": 3
+ },
+ {
+   "id": 223,
+   "genre": "Guide",
+   "title": "Ideal Husband, An",
+   "author": "Gran",
+   "publisher": "Stormi",
+   "edition": 2
+ },
+ {
+   "id": 224,
+   "genre": "Science",
+   "title": "Deep Water",
+   "author": "Jessey",
+   "publisher": "Wes",
+   "edition": 1
+ },
+ {
+   "id": 225,
+   "genre": "Mystery",
+   "title": "Sonny Boy",
+   "author": "Jobyna",
+   "publisher": "Norina",
+   "edition": 3
+ },
+ {
+   "id": 226,
+   "genre": "Health",
+   "title": "Bill Maher: Victory Begins at Home",
+   "author": "Ashely",
+   "publisher": "Boy",
+   "edition": 5
+ },
+ {
+   "id": 227,
+   "genre": "horror",
+   "title": "Ten Minutes Older",
+   "author": "Sansone",
+   "publisher": "Joaquin",
+   "edition": 4
+ },
+ {
+   "id": 228,
+   "genre": "Self help",
+   "title": "Play Misty for Me",
+   "author": "Renault",
+   "publisher": "Lucas",
+   "edition": 3
+ },
+ {
+   "id": 229,
+   "genre": "Self help",
+   "title": "Zombie (a.k.a. Zombie 2: The Dead Are Among Us) (Zombi 2)",
+   "author": "Minette",
+   "publisher": "Ram",
+   "edition": 3
+ },
+ {
+   "id": 230,
+   "genre": "Self help",
+   "title": "Conceiving Ada",
+   "author": "Shae",
+   "publisher": "Terence",
+   "edition": 2
+ },
+ {
+   "id": 231,
+   "genre": "Poetry",
+   "title": "Edge of Seventeen",
+   "author": "Dilly",
+   "publisher": "Moyra",
+   "edition": 3
+ },
+ {
+   "id": 232,
+   "genre": "Art",
+   "title": "Theodore Rex",
+   "author": "Clarissa",
+   "publisher": "Marley",
+   "edition": 2
+ },
+ {
+   "id": 233,
+   "genre": "Religion",
+   "title": "Dark Water",
+   "author": "Brear",
+   "publisher": "Ajay",
+   "edition": 4
+ },
+ {
+   "id": 234,
+   "genre": "Science fiction",
+   "title": "Winter Kills",
+   "author": "Kalindi",
+   "publisher": "Andriette",
+   "edition": 2
+ },
+ {
+   "id": 235,
+   "genre": "biography",
+   "title": "Daria: Is It College Yet?",
+   "author": "Aguie",
+   "publisher": "Erena",
+   "edition": 4
+ },
+ {
+   "id": 236,
+   "genre": "Children's",
+   "title": "Crazy Stranger, The (Gadjo Dilo)",
+   "author": "Merlina",
+   "publisher": "Idette",
+   "edition": 5
+ },
+ {
+   "id": 237,
+   "genre": "History",
+   "title": "Accident",
+   "author": "Vickie",
+   "publisher": "Theda",
+   "edition": 3
+ },
+ {
+   "id": 238,
+   "genre": "Romance",
+   "title": "Genius Within: The Inner Life of Glenn Gould",
+   "author": "Kara-lynn",
+   "publisher": "Dorothy",
+   "edition": 1
+ },
+ {
+   "id": 239,
+   "genre": "Anthology",
+   "title": "Miracles",
+   "author": "Kennie",
+   "publisher": "Meara",
+   "edition": 4
+ },
+ {
+   "id": 240,
+   "genre": "Cookbooks",
+   "title": "Felon",
+   "author": "Chip",
+   "publisher": "Jared",
+   "edition": 5
+ },
+ {
+   "id": 241,
+   "genre": "Self help",
+   "title": "Possible Loves (Amores Possíveis)",
+   "author": "Taffy",
+   "publisher": "Nelson",
+   "edition": 4
+ },
+ {
+   "id": 242,
+   "genre": "Action and Adventure",
+   "title": "Take Shelter",
+   "author": "Gerek",
+   "publisher": "Joni",
+   "edition": 4
+ },
+ {
+   "id": 243,
+   "genre": "Guide",
+   "title": "Molly Maxwell",
+   "author": "Lia",
+   "publisher": "Damian",
+   "edition": 1
+ },
+ {
+   "id": 244,
+   "genre": " Spirituality & New Age",
+   "title": "Big Hit, The",
+   "author": "Teodora",
+   "publisher": "Lucine",
+   "edition": 5
+ },
+ {
+   "id": 245,
+   "genre": "Satire",
+   "title": "Red Eye",
+   "author": "Filippa",
+   "publisher": "Misha",
+   "edition": 1
+ },
+ {
+   "id": 246,
+   "genre": "Mystery",
+   "title": "Swimfan",
+   "author": "Liam",
+   "publisher": "Clementina",
+   "edition": 2
+ },
+ {
+   "id": 247,
+   "genre": "horror",
+   "title": "The Final Girl",
+   "author": "Nesta",
+   "publisher": "Ardis",
+   "edition": 2
+ },
+ {
+   "id": 248,
+   "genre": "Science",
+   "title": "About Last Night...",
+   "author": "Maximilianus",
+   "publisher": "Danica",
+   "edition": 3
+ },
+ {
+   "id": 249,
+   "genre": "Dictionaries",
+   "title": "Nuns on the Run",
+   "author": "Cecil",
+   "publisher": "Valeria",
+   "edition": 5
+ },
+ {
+   "id": 250,
+   "genre": "Action and Adventure",
+   "title": "Battle in Heaven (Batalla en el cielo)",
+   "author": "Susann",
+   "publisher": "Cy",
+   "edition": 1
+ },
+ {
+   "id": 251,
+   "genre": " Spirituality & New Age",
+   "title": "Henry IV, Part II (Second Part of King Henry the Fourth, including his death and the coronation of King Henry the Fifth, The)",
+   "author": "Sandye",
+   "publisher": "Freddie",
+   "edition": 3
+ },
+ {
+   "id": 252,
+   "genre": "biography",
+   "title": "Bordertown",
+   "author": "Bari",
+   "publisher": "Wallas",
+   "edition": 3
+ },
+ {
+   "id": 253,
+   "genre": "Self help",
+   "title": "Diplomatic Siege",
+   "author": "Eddi",
+   "publisher": "Lotti",
+   "edition": 5
+ },
+ {
+   "id": 254,
+   "genre": "Religion",
+   "title": "Liam",
+   "author": "Melvin",
+   "publisher": "Pepillo",
+   "edition": 5
+ },
+ {
+   "id": 255,
+   "genre": "Science fiction",
+   "title": "Raiders of Atlantis, The",
+   "author": "Halsey",
+   "publisher": "Jeane",
+   "edition": 2
+ },
+ {
+   "id": 256,
+   "genre": "Anthology",
+   "title": "Diary of a Chambermaid (Journal d'une femme de chambre, Le)",
+   "author": "Lynne",
+   "publisher": "Mariette",
+   "edition": 2
+ },
+ {
+   "id": 257,
+   "genre": "Science",
+   "title": "Now!",
+   "author": "Fanni",
+   "publisher": "Kania",
+   "edition": 5
+ },
+ {
+   "id": 258,
+   "genre": "Religion",
+   "title": "The Karen Carpenter Story",
+   "author": "Darda",
+   "publisher": "Caleb",
+   "edition": 3
+ },
+ {
+   "id": 259,
+   "genre": "Math",
+   "title": "Poor Us: An Animated History of Poverty",
+   "author": "Lewie",
+   "publisher": "Jori",
+   "edition": 3
+ },
+ {
+   "id": 260,
+   "genre": "Science fiction",
+   "title": "When Animals Dream (Når dyrene drømmer)",
+   "author": "Jervis",
+   "publisher": "Harmonia",
+   "edition": 4
+ },
+ {
+   "id": 261,
+   "genre": "Anthology",
+   "title": "Me and My Sister",
+   "author": "Toby",
+   "publisher": "Larissa",
+   "edition": 5
+ },
+ {
+   "id": 262,
+   "genre": "academic",
+   "title": "Azumi",
+   "author": "Audrye",
+   "publisher": "Papageno",
+   "edition": 5
+ },
+ {
+   "id": 263,
+   "genre": "Drama",
+   "title": "Nora's Will (Cinco días sin Nora)",
+   "author": "Dionisio",
+   "publisher": "Annalise",
+   "edition": 2
+ },
+ {
+   "id": 264,
+   "genre": "Science",
+   "title": "Sundown",
+   "author": "Seka",
+   "publisher": "Roberta",
+   "edition": 1
+ },
+ {
+   "id": 265,
+   "genre": "Comics",
+   "title": "Royal Scandal, The",
+   "author": "Meade",
+   "publisher": "Augie",
+   "edition": 3
+ },
+ {
+   "id": 266,
+   "genre": "Encyclopedias",
+   "title": "Wolf of Wall Street, The",
+   "author": "Eugenio",
+   "publisher": "Piotr",
+   "edition": 4
+ },
+ {
+   "id": 267,
+   "genre": "Math",
+   "title": "Live Free or Die Hard",
+   "author": "Olivette",
+   "publisher": "Theressa",
+   "edition": 5
+ },
+ {
+   "id": 268,
+   "genre": "Children's",
+   "title": "Jesse Stone: Innocents Lost",
+   "author": "Dion",
+   "publisher": "Jacquelynn",
+   "edition": 4
+ },
+ {
+   "id": 269,
+   "genre": "Art",
+   "title": "Family, The",
+   "author": "Caroljean",
+   "publisher": "Simona",
+   "edition": 1
+ },
+ {
+   "id": 270,
+   "genre": "Encyclopedias",
+   "title": "One-Eyed Monster",
+   "author": "Berky",
+   "publisher": "Katie",
+   "edition": 4
+ },
+ {
+   "id": 271,
+   "genre": "Science fiction",
+   "title": "Helicopter String Quartet",
+   "author": "Virginie",
+   "publisher": "Britta",
+   "edition": 1
+ },
+ {
+   "id": 272,
+   "genre": "Travel",
+   "title": "Leprechaun",
+   "author": "Ulick",
+   "publisher": "Phillipe",
+   "edition": 3
+ },
+ {
+   "id": 273,
+   "genre": "Satire",
+   "title": "Six Weeks",
+   "author": "Boycey",
+   "publisher": "Nerita",
+   "edition": 4
+ },
+ {
+   "id": 274,
+   "genre": "Drama",
+   "title": "Making Love",
+   "author": "Averil",
+   "publisher": "Barde",
+   "edition": 2
+ },
+ {
+   "id": 275,
+   "genre": "Romance",
+   "title": "Man from the Future, The (O Homem do Futuro)",
+   "author": "Harv",
+   "publisher": "Florentia",
+   "edition": 4
+ },
+ {
+   "id": 276,
+   "genre": " Spirituality & New Age",
+   "title": "Perils of Gwendoline in the Land of the Yik Yak, The",
+   "author": "Bobby",
+   "publisher": "Geoffrey",
+   "edition": 5
+ },
+ {
+   "id": 277,
+   "genre": "Romance",
+   "title": "Punch-Drunk Love",
+   "author": "Sianna",
+   "publisher": "Daphna",
+   "edition": 5
+ },
+ {
+   "id": 278,
+   "genre": "Poetry",
+   "title": "Beautician and the Beast, The",
+   "author": "Norean",
+   "publisher": "Granthem",
+   "edition": 3
+ },
+ {
+   "id": 279,
+   "genre": "Children's",
+   "title": "Past Midnight",
+   "author": "Doralynne",
+   "publisher": "Joelly",
+   "edition": 5
+ },
+ {
+   "id": 280,
+   "genre": "Anthology",
+   "title": "Wrestling (Bræðrabylta)",
+   "author": "Moss",
+   "publisher": "Dael",
+   "edition": 3
+ },
+ {
+   "id": 281,
+   "genre": "Horror",
+   "title": "Under the Volcano",
+   "author": "Kati",
+   "publisher": "Zorina",
+   "edition": 5
+ },
+ {
+   "id": 282,
+   "genre": "Guide",
+   "title": "Revenge of the Nerds IV: Nerds in Love",
+   "author": "Kendra",
+   "publisher": "Jelene",
+   "edition": 1
+ },
+ {
+   "id": 283,
+   "genre": "Diaries",
+   "title": "Crimes and Misdemeanors",
+   "author": "Lindsy",
+   "publisher": "Natalie",
+   "edition": 1
+ },
+ {
+   "id": 284,
+   "genre": "Romance",
+   "title": "8MM 2",
+   "author": "Dierdre",
+   "publisher": "Tobit",
+   "edition": 2
+ },
+ {
+   "id": 285,
+   "genre": "Health",
+   "title": "So Big!",
+   "author": "Laurette",
+   "publisher": "Eleanora",
+   "edition": 3
+ },
+ {
+   "id": 286,
+   "genre": "Math",
+   "title": "American Adobo",
+   "author": "Winthrop",
+   "publisher": "Dagny",
+   "edition": 5
+ },
+ {
+   "id": 287,
+   "genre": "Health",
+   "title": "Kidnapping of the President, The",
+   "author": "Maybelle",
+   "publisher": "Lauren",
+   "edition": 2
+ },
+ {
+   "id": 288,
+   "genre": "Mystery",
+   "title": "Murder on Monday",
+   "author": "Katharina",
+   "publisher": "Stephen",
+   "edition": 1
+ },
+ {
+   "id": 289,
+   "genre": "Anthology",
+   "title": "Wagner's Dream",
+   "author": "Raynell",
+   "publisher": "Myrvyn",
+   "edition": 2
+ },
+ {
+   "id": 290,
+   "genre": "Encyclopedias",
+   "title": "Objectified",
+   "author": "Betta",
+   "publisher": "Lucina",
+   "edition": 2
+ },
+ {
+   "id": 291,
+   "genre": "Guide",
+   "title": "Cosmic Journey",
+   "author": "Andrea",
+   "publisher": "Merwin",
+   "edition": 1
+ },
+ {
+   "id": 292,
+   "genre": "Science fiction",
+   "title": "American Tail, An",
+   "author": "Dennie",
+   "publisher": "Myrtice",
+   "edition": 2
+ },
+ {
+   "id": 293,
+   "genre": " Spirituality & New Age",
+   "title": "Cold Water (Eau Froide, L')",
+   "author": "Kristofer",
+   "publisher": "Prue",
+   "edition": 1
+ },
+ {
+   "id": 294,
+   "genre": " Spirituality & New Age",
+   "title": "Rashomon (Rashômon)",
+   "author": "Faith",
+   "publisher": "Baxter",
+   "edition": 5
+ },
+ {
+   "id": 295,
+   "genre": "Religion",
+   "title": "Jesus Is a Palestinian (Jezus is een Palestijn)",
+   "author": "Rozele",
+   "publisher": "Cordi",
+   "edition": 2
+ },
+ {
+   "id": 296,
+   "genre": "Children's",
+   "title": "Jerky Boys, The",
+   "author": "Shellie",
+   "publisher": "Tilly",
+   "edition": 3
+ },
+ {
+   "id": 297,
+   "genre": "Diaries",
+   "title": "Dog of Flanders, A",
+   "author": "Sherwin",
+   "publisher": "Broddy",
+   "edition": 1
+ },
+ {
+   "id": 298,
+   "genre": "Drama",
+   "title": "Sunes sommar",
+   "author": "Erick",
+   "publisher": "Rafa",
+   "edition": 4
+ },
+ {
+   "id": 299,
+   "genre": " Spirituality & New Age",
+   "title": "Match, The",
+   "author": "Jeddy",
+   "publisher": "Cesar",
+   "edition": 3
+ },
+ {
+   "id": 300,
+   "genre": "Poetry",
+   "title": "Come Early Morning",
+   "author": "Alma",
+   "publisher": "Moshe",
+   "edition": 5
+ },
+ {
+   "id": 301,
+   "genre": "Poetry",
+   "title": "Maximum Risk",
+   "author": "Hirsch",
+   "publisher": "Sandy",
+   "edition": 3
+ },
+ {
+   "id": 302,
+   "genre": "Cookbooks",
+   "title": "History of Violence, A",
+   "author": "Wilfrid",
+   "publisher": "Theodora",
+   "edition": 1
+ },
+ {
+   "id": 303,
+   "genre": "Encyclopedias",
+   "title": "Dance with a Stranger",
+   "author": "Octavia",
+   "publisher": "Burk",
+   "edition": 1
+ },
+ {
+   "id": 304,
+   "genre": "History",
+   "title": "Pumpkinhead II: Blood Wings",
+   "author": "Farly",
+   "publisher": "Mason",
+   "edition": 3
+ },
+ {
+   "id": 305,
+   "genre": "Drama",
+   "title": "Spellbound",
+   "author": "Carter",
+   "publisher": "Danica",
+   "edition": 4
+ },
+ {
+   "id": 306,
+   "genre": "biography",
+   "title": "Tortilla Soup",
+   "author": "Leopold",
+   "publisher": "Shirlee",
+   "edition": 2
+ },
+ {
+   "id": 307,
+   "genre": "Children's",
+   "title": "Game, The",
+   "author": "Jackelyn",
+   "publisher": "Colene",
+   "edition": 1
+ },
+ {
+   "id": 308,
+   "genre": "Dictionaries",
+   "title": "Beyond Therapy",
+   "author": "Erie",
+   "publisher": "Nola",
+   "edition": 4
+ },
+ {
+   "id": 309,
+   "genre": "Science",
+   "title": "Island, The",
+   "author": "Claudianus",
+   "publisher": "Bella",
+   "edition": 5
+ },
+ {
+   "id": 310,
+   "genre": "Health",
+   "title": "Zorro",
+   "author": "Demetre",
+   "publisher": "Mireille",
+   "edition": 1
+ },
+ {
+   "id": 311,
+   "genre": "Guide",
+   "title": "Tender Trap, The",
+   "author": "Alissa",
+   "publisher": "Etti",
+   "edition": 3
+ },
+ {
+   "id": 312,
+   "genre": "Health",
+   "title": "What? (Che?)",
+   "author": "Timmy",
+   "publisher": "Tynan",
+   "edition": 4
+ },
+ {
+   "id": 313,
+   "genre": "Dictionaries",
+   "title": "Woman Obsessed",
+   "author": "Aldin",
+   "publisher": "Issie",
+   "edition": 3
+ },
+ {
+   "id": 314,
+   "genre": "Art",
+   "title": "Amistad",
+   "author": "Kalindi",
+   "publisher": "Teador",
+   "edition": 4
+ },
+ {
+   "id": 315,
+   "genre": "Anthology",
+   "title": "Still Bill",
+   "author": "Ive",
+   "publisher": "Mariya",
+   "edition": 2
+ },
+ {
+   "id": 316,
+   "genre": "Action and Adventure",
+   "title": "To Tulsa and Back: On Tour with J.J. Cale",
+   "author": "Delcina",
+   "publisher": "Brok",
+   "edition": 5
+ },
+ {
+   "id": 317,
+   "genre": "Travel",
+   "title": "Yamakasi - Les samouraïs des temps modernes",
+   "author": "Denys",
+   "publisher": "Sharl",
+   "edition": 2
+ },
+ {
+   "id": 318,
+   "genre": "Religion",
+   "title": "Steam",
+   "author": "Kristyn",
+   "publisher": "Edie",
+   "edition": 1
+ },
+ {
+   "id": 319,
+   "genre": "biography",
+   "title": "Frank and Ollie",
+   "author": "Jermain",
+   "publisher": "Essie",
+   "edition": 1
+ },
+ {
+   "id": 320,
+   "genre": "Health",
+   "title": "Outrageous Fortune",
+   "author": "Katine",
+   "publisher": "Keen",
+   "edition": 2
+ },
+ {
+   "id": 321,
+   "genre": "Math",
+   "title": "Housemaid, The (Hanyo)",
+   "author": "Gram",
+   "publisher": "Flora",
+   "edition": 2
+ },
+ {
+   "id": 322,
+   "genre": "Science",
+   "title": "Dobermann",
+   "author": "Pamella",
+   "publisher": "Ketty",
+   "edition": 1
+ },
+ {
+   "id": 323,
+   "genre": "Health",
+   "title": "Baraka",
+   "author": "Reina",
+   "publisher": "Reeva",
+   "edition": 5
+ },
+ {
+   "id": 324,
+   "genre": " Spirituality & New Age",
+   "title": "Jumbo (Billy Rose's Jumbo)",
+   "author": "Idette",
+   "publisher": "Robina",
+   "edition": 2
+ },
+ {
+   "id": 325,
+   "genre": "Satire",
+   "title": "Le crocodile du Botswanga",
+   "author": "Carlyn",
+   "publisher": "Truda",
+   "edition": 1
+ },
+ {
+   "id": 326,
+   "genre": "Science",
+   "title": "Nicholas and Alexandra",
+   "author": "Eddy",
+   "publisher": "Kassia",
+   "edition": 4
+ },
+ {
+   "id": 327,
+   "genre": "Guide",
+   "title": "Honey (Miele)",
+   "author": "Timmie",
+   "publisher": "Gale",
+   "edition": 4
+ },
+ {
+   "id": 328,
+   "genre": "Guide",
+   "title": "Safe",
+   "author": "Ossie",
+   "publisher": "Gherardo",
+   "edition": 3
+ },
+ {
+   "id": 329,
+   "genre": "Poetry",
+   "title": "Snow Falling on Cedars",
+   "author": "Ruddie",
+   "publisher": "Gerladina",
+   "edition": 3
+ },
+ {
+   "id": 330,
+   "genre": "Dictionaries",
+   "title": "Rise of Catherine the Great, The",
+   "author": "Pinchas",
+   "publisher": "Germaine",
+   "edition": 3
+ },
+ {
+   "id": 331,
+   "genre": "Guide",
+   "title": "White Elephant",
+   "author": "Gauthier",
+   "publisher": "Stefania",
+   "edition": 3
+ },
+ {
+   "id": 332,
+   "genre": "Math",
+   "title": "Beautiful Boy",
+   "author": "Austin",
+   "publisher": "Estel",
+   "edition": 2
+ },
+ {
+   "id": 333,
+   "genre": "Travel",
+   "title": "Operation Dumbo Drop",
+   "author": "Chrissie",
+   "publisher": "Mendel",
+   "edition": 4
+ },
+ {
+   "id": 334,
+   "genre": "academic",
+   "title": "Breakfast on Pluto",
+   "author": "Judye",
+   "publisher": "Gordan",
+   "edition": 4
+ },
+ {
+   "id": 335,
+   "genre": "biography",
+   "title": "Italian Straw Hat, The (Un chapeau de paille d'Italie)",
+   "author": "Sacha",
+   "publisher": "Rahel",
+   "edition": 4
+ },
+ {
+   "id": 336,
+   "genre": "Horror",
+   "title": "Return of Jafar, The",
+   "author": "Orson",
+   "publisher": "Kimble",
+   "edition": 2
+ },
+ {
+   "id": 337,
+   "genre": "Dictionaries",
+   "title": "Holiday for Drumsticks",
+   "author": "Andres",
+   "publisher": "Dru",
+   "edition": 4
+ },
+ {
+   "id": 338,
+   "genre": "Children's",
+   "title": "All Things Fair (Lust och fägring stor)",
+   "author": "Tandie",
+   "publisher": "Elena",
+   "edition": 2
+ },
+ {
+   "id": 339,
+   "genre": "History",
+   "title": "Land of the Dead",
+   "author": "Joly",
+   "publisher": "Shane",
+   "edition": 4
+ },
+ {
+   "id": 340,
+   "genre": "Dictionaries",
+   "title": "Revolution OS",
+   "author": "Florri",
+   "publisher": "Katleen",
+   "edition": 1
+ },
+ {
+   "id": 341,
+   "genre": "Science",
+   "title": "Must Read After My Death",
+   "author": "Shaine",
+   "publisher": "Vilma",
+   "edition": 4
+ },
+ {
+   "id": 342,
+   "genre": "Anthology",
+   "title": "Havoc",
+   "author": "Hanni",
+   "publisher": "Ash",
+   "edition": 3
+ },
+ {
+   "id": 343,
+   "genre": "Math",
+   "title": "Rocket Gibraltar",
+   "author": "Britte",
+   "publisher": "Darby",
+   "edition": 5
+ },
+ {
+   "id": 344,
+   "genre": "Self help",
+   "title": "Four Daughters",
+   "author": "Naoma",
+   "publisher": "Delores",
+   "edition": 4
+ },
+ {
+   "id": 345,
+   "genre": "biography",
+   "title": "The Adventures of André and Wally B.",
+   "author": "Leoline",
+   "publisher": "Ricard",
+   "edition": 2
+ },
+ {
+   "id": 346,
+   "genre": "Math",
+   "title": "Lifeguard",
+   "author": "Donella",
+   "publisher": "Maryanne",
+   "edition": 1
+ },
+ {
+   "id": 347,
+   "genre": "Math",
+   "title": "Music Man, The",
+   "author": "Ortensia",
+   "publisher": "Muriel",
+   "edition": 4
+ },
+ {
+   "id": 348,
+   "genre": "Children's",
+   "title": "Of Human Hearts",
+   "author": "Rhianon",
+   "publisher": "Jami",
+   "edition": 2
+ },
+ {
+   "id": 349,
+   "genre": "Anthology",
+   "title": "Divine Horsemen: The Living Gods of Haiti",
+   "author": "Cecil",
+   "publisher": "York",
+   "edition": 5
+ },
+ {
+   "id": 350,
+   "genre": "Diaries",
+   "title": "Kennedys, The",
+   "author": "Jon",
+   "publisher": "Evin",
+   "edition": 3
+ },
+ {
+   "id": 351,
+   "genre": "Horror",
+   "title": "Ivanhoe",
+   "author": "Pinchas",
+   "publisher": "Karlyn",
+   "edition": 3
+ },
+ {
+   "id": 352,
+   "genre": "Anthology",
+   "title": "Chinese Puzzle (Casse-tête chinois)",
+   "author": "Symon",
+   "publisher": "Kali",
+   "edition": 2
+ },
+ {
+   "id": 353,
+   "genre": "Health",
+   "title": "Tramp, The (Awaara) (Awara)",
+   "author": "Lorine",
+   "publisher": "Lindon",
+   "edition": 1
+ },
+ {
+   "id": 354,
+   "genre": "Horror",
+   "title": "Carrie",
+   "author": "Elwyn",
+   "publisher": "Antoine",
+   "edition": 4
+ },
+ {
+   "id": 355,
+   "genre": "Art",
+   "title": "Majesteit",
+   "author": "Delbert",
+   "publisher": "Renault",
+   "edition": 3
+ },
+ {
+   "id": 356,
+   "genre": "Math",
+   "title": "Becoming Chaz",
+   "author": "Odell",
+   "publisher": "Tallie",
+   "edition": 2
+ },
+ {
+   "id": 357,
+   "genre": "Horror",
+   "title": "Dragonheart 3: The Sorcerer's Curse",
+   "author": "Celestina",
+   "publisher": "Baron",
+   "edition": 2
+ },
+ {
+   "id": 358,
+   "genre": "Diaries",
+   "title": "Safety of Objects, The",
+   "author": "Blisse",
+   "publisher": "Zara",
+   "edition": 5
+ },
+ {
+   "id": 359,
+   "genre": "Art",
+   "title": "Damien: Omen II",
+   "author": "Randal",
+   "publisher": "Diana",
+   "edition": 1
+ },
+ {
+   "id": 360,
+   "genre": "academic",
+   "title": "Napoleon Dynamite",
+   "author": "Dania",
+   "publisher": "Iseabal",
+   "edition": 5
+ },
+ {
+   "id": 361,
+   "genre": "Anthology",
+   "title": "Adaptation",
+   "author": "Benito",
+   "publisher": "Antonio",
+   "edition": 2
+ },
+ {
+   "id": 362,
+   "genre": "Comics",
+   "title": "Housekeeping",
+   "author": "Nye",
+   "publisher": "Myriam",
+   "edition": 4
+ },
+ {
+   "id": 363,
+   "genre": "Art",
+   "title": "The Winslow Boy",
+   "author": "Redd",
+   "publisher": "Harlin",
+   "edition": 2
+ },
+ {
+   "id": 364,
+   "genre": "Mystery",
+   "title": "Vampire's Kiss",
+   "author": "Barb",
+   "publisher": "Avigdor",
+   "edition": 3
+ },
+ {
+   "id": 365,
+   "genre": "Religion",
+   "title": "Moving Violations",
+   "author": "Kerby",
+   "publisher": "Kordula",
+   "edition": 2
+ },
+ {
+   "id": 366,
+   "genre": "Dictionaries",
+   "title": "Siddhartha",
+   "author": "Reinold",
+   "publisher": "Dot",
+   "edition": 3
+ },
+ {
+   "id": 367,
+   "genre": "Health",
+   "title": "My Sweet Pepper Land",
+   "author": "Merilyn",
+   "publisher": "Derril",
+   "edition": 3
+ },
+ {
+   "id": 368,
+   "genre": "Science",
+   "title": "Twilight of the Ice Nymphs",
+   "author": "Penelope",
+   "publisher": "Cortie",
+   "edition": 5
+ },
+ {
+   "id": 369,
+   "genre": "Science",
+   "title": "Abandoned",
+   "author": "Malena",
+   "publisher": "Corenda",
+   "edition": 5
+ },
+ {
+   "id": 370,
+   "genre": "Cookbooks",
+   "title": "Desert Fox, The",
+   "author": "Borg",
+   "publisher": "Godard",
+   "edition": 4
+ },
+ {
+   "id": 371,
+   "genre": "Math",
+   "title": "William S. Burroughs: A Man Within",
+   "author": "Wylma",
+   "publisher": "Merci",
+   "edition": 4
+ },
+ {
+   "id": 372,
+   "genre": "Religion",
+   "title": "Lost & Found",
+   "author": "Constantia",
+   "publisher": "Elizabeth",
+   "edition": 3
+ },
+ {
+   "id": 373,
+   "genre": "Encyclopedias",
+   "title": "Monuments Men, The",
+   "author": "Ely",
+   "publisher": "Ryann",
+   "edition": 3
+ },
+ {
+   "id": 374,
+   "genre": "academic",
+   "title": "Sweet Charity",
+   "author": "Tawsha",
+   "publisher": "Wilburt",
+   "edition": 4
+ },
+ {
+   "id": 375,
+   "genre": "Dictionaries",
+   "title": "Bad News Bears",
+   "author": "Tommie",
+   "publisher": "Tabor",
+   "edition": 4
+ },
+ {
+   "id": 376,
+   "genre": "Horror",
+   "title": "Hollywood Revue of 1929, The",
+   "author": "Maighdiln",
+   "publisher": "Moina",
+   "edition": 4
+ },
+ {
+   "id": 377,
+   "genre": "biography",
+   "title": "Cutting Edge: The Magic of Movie Editing, The",
+   "author": "Jaquenette",
+   "publisher": "Berget",
+   "edition": 3
+ },
+ {
+   "id": 378,
+   "genre": "Drama",
+   "title": "By Dawn's Early Light",
+   "author": "Tandie",
+   "publisher": "Marna",
+   "edition": 2
+ },
+ {
+   "id": 379,
+   "genre": "Encyclopedias",
+   "title": "Whisky Galore",
+   "author": "Aguistin",
+   "publisher": "Melisa",
+   "edition": 5
+ },
+ {
+   "id": 380,
+   "genre": "Children's",
+   "title": "NeverEnding Story II: The Next Chapter, The",
+   "author": "Vivienne",
+   "publisher": "Aimee",
+   "edition": 3
+ },
+ {
+   "id": 381,
+   "genre": "Poetry",
+   "title": "Above the Law",
+   "author": "Biddie",
+   "publisher": "Carter",
+   "edition": 4
+ },
+ {
+   "id": 382,
+   "genre": "History",
+   "title": "Bad Girls",
+   "author": "Kipper",
+   "publisher": "Ludvig",
+   "edition": 1
+ },
+ {
+   "id": 383,
+   "genre": "Children's",
+   "title": "Bell, Book and Candle",
+   "author": "Norine",
+   "publisher": "Camey",
+   "edition": 5
+ },
+ {
+   "id": 384,
+   "genre": "Diaries",
+   "title": "Scorpio",
+   "author": "Jacklyn",
+   "publisher": "Gilemette",
+   "edition": 5
+ },
+ {
+   "id": 385,
+   "genre": "Travel",
+   "title": "Inequality for All",
+   "author": "Reynard",
+   "publisher": "Dorelia",
+   "edition": 2
+ },
+ {
+   "id": 386,
+   "genre": "Religion",
+   "title": "Getaway, The",
+   "author": "Alikee",
+   "publisher": "Prince",
+   "edition": 5
+ },
+ {
+   "id": 387,
+   "genre": " Spirituality & New Age",
+   "title": "Fear City: A Family-Style Comedy (La cité de la peur)",
+   "author": "Moishe",
+   "publisher": "Jeanette",
+   "edition": 1
+ },
+ {
+   "id": 388,
+   "genre": "History",
+   "title": "Vampire Bat, The",
+   "author": "Fancy",
+   "publisher": "Tobe",
+   "edition": 2
+ },
+ {
+   "id": 389,
+   "genre": "horror",
+   "title": "3:10 to Yuma",
+   "author": "Elianore",
+   "publisher": "Zack",
+   "edition": 5
+ },
+ {
+   "id": 390,
+   "genre": "academic",
+   "title": "Walking on Sunshine",
+   "author": "Thoma",
+   "publisher": "Benedict",
+   "edition": 2
+ },
+ {
+   "id": 391,
+   "genre": "Action and Adventure",
+   "title": "The Fool",
+   "author": "Gabbi",
+   "publisher": "Zuzana",
+   "edition": 4
+ },
+ {
+   "id": 392,
+   "genre": "Religion",
+   "title": "Patch Adams",
+   "author": "Kacie",
+   "publisher": "Anjanette",
+   "edition": 3
+ },
+ {
+   "id": 393,
+   "genre": "Guide",
+   "title": "Home",
+   "author": "Chariot",
+   "publisher": "Ibrahim",
+   "edition": 5
+ },
+ {
+   "id": 394,
+   "genre": "Journals",
+   "title": "Dark Touch",
+   "author": "Chrysa",
+   "publisher": "Cale",
+   "edition": 3
+ },
+ {
+   "id": 395,
+   "genre": "Health",
+   "title": "Meet the Spartans",
+   "author": "Fayre",
+   "publisher": "Griffith",
+   "edition": 5
+ },
+ {
+   "id": 396,
+   "genre": "Health",
+   "title": "Panic",
+   "author": "Andrea",
+   "publisher": "Nanni",
+   "edition": 5
+ },
+ {
+   "id": 397,
+   "genre": "Drama",
+   "title": "Grill Point (Halbe Treppe)",
+   "author": "Dar",
+   "publisher": "Ameline",
+   "edition": 5
+ },
+ {
+   "id": 398,
+   "genre": "Science fiction",
+   "title": "Last Hurrah for Chivalry (Hao xia)",
+   "author": "Emmeline",
+   "publisher": "Lalo",
+   "edition": 2
+ },
+ {
+   "id": 399,
+   "genre": "Cookbooks",
+   "title": "Mummy, The",
+   "author": "Phebe",
+   "publisher": "Domeniga",
+   "edition": 3
+ },
+ {
+   "id": 400,
+   "genre": "Anthology",
+   "title": "Whoopi Goldberg Presents Moms Mabley",
+   "author": "Shanda",
+   "publisher": "Linn",
+   "edition": 2
+ },
+ {
+   "id": 401,
+   "genre": "Self help",
+   "title": "Juror, The",
+   "author": "Juliane",
+   "publisher": "Kacey",
+   "edition": 4
+ },
+ {
+   "id": 402,
+   "genre": "Drama",
+   "title": "I Accuse",
+   "author": "Lutero",
+   "publisher": "Leoline",
+   "edition": 2
+ },
+ {
+   "id": 403,
+   "genre": "Journals",
+   "title": "Jason and the Argonauts",
+   "author": "Neila",
+   "publisher": "Ad",
+   "edition": 1
+ },
+ {
+   "id": 404,
+   "genre": "Poetry",
+   "title": "Pascali's Island",
+   "author": "Anna-diane",
+   "publisher": "Abbey",
+   "edition": 5
+ },
+ {
+   "id": 405,
+   "genre": "Cookbooks",
+   "title": "5x2",
+   "author": "Kellsie",
+   "publisher": "Harv",
+   "edition": 4
+ },
+ {
+   "id": 406,
+   "genre": "Art",
+   "title": "Where Is Fred!? (Wo ist Fred?)",
+   "author": "Josepha",
+   "publisher": "Albert",
+   "edition": 3
+ },
+ {
+   "id": 407,
+   "genre": "History",
+   "title": "Extraordinary Stories (Historias extraordinarias)",
+   "author": "Farrell",
+   "publisher": "Doreen",
+   "edition": 3
+ },
+ {
+   "id": 408,
+   "genre": "Comics",
+   "title": "Love in the Afternoon (Chloe in the Afternoon)  (L'amour l'après-midi)",
+   "author": "Faustina",
+   "publisher": "Heidi",
+   "edition": 4
+ },
+ {
+   "id": 409,
+   "genre": "Action and Adventure",
+   "title": "Johnny Mad Dog",
+   "author": "Seana",
+   "publisher": "Kendall",
+   "edition": 1
+ },
+ {
+   "id": 410,
+   "genre": "Art",
+   "title": "Forgetting the Girl",
+   "author": "Chloe",
+   "publisher": "Randie",
+   "edition": 5
+ },
+ {
+   "id": 411,
+   "genre": "Romance",
+   "title": "New Fist of Fury (Xin jing wu men)",
+   "author": "Ramona",
+   "publisher": "Jessie",
+   "edition": 3
+ },
+ {
+   "id": 412,
+   "genre": "Action and Adventure",
+   "title": "Casper",
+   "author": "Dulcia",
+   "publisher": "Delcine",
+   "edition": 2
+ },
+ {
+   "id": 413,
+   "genre": "Science",
+   "title": "Killing of a Chinese Bookie, The",
+   "author": "Isidor",
+   "publisher": "Dot",
+   "edition": 2
+ },
+ {
+   "id": 414,
+   "genre": "Dictionaries",
+   "title": "Scarlet Pimpernel, The",
+   "author": "Mahmoud",
+   "publisher": "Barbaraanne",
+   "edition": 1
+ },
+ {
+   "id": 415,
+   "genre": "Math",
+   "title": "Toni",
+   "author": "Michal",
+   "publisher": "Susanna",
+   "edition": 3
+ },
+ {
+   "id": 416,
+   "genre": "Cookbooks",
+   "title": "Smoke",
+   "author": "Skippie",
+   "publisher": "Dare",
+   "edition": 5
+ },
+ {
+   "id": 417,
+   "genre": "Diaries",
+   "title": "Hit, The",
+   "author": "Caryl",
+   "publisher": "Shannon",
+   "edition": 3
+ },
+ {
+   "id": 418,
+   "genre": "Horror",
+   "title": "Waiting Women (Kvinnors väntan)",
+   "author": "Cassondra",
+   "publisher": "Chauncey",
+   "edition": 4
+ },
+ {
+   "id": 419,
+   "genre": "Dictionaries",
+   "title": "Cat's Meow, The",
+   "author": "Esme",
+   "publisher": "Davita",
+   "edition": 3
+ },
+ {
+   "id": 420,
+   "genre": "Self help",
+   "title": "Unknown",
+   "author": "Rock",
+   "publisher": "Janelle",
+   "edition": 3
+ },
+ {
+   "id": 421,
+   "genre": "Satire",
+   "title": "Love Affair",
+   "author": "Moselle",
+   "publisher": "Matthias",
+   "edition": 2
+ },
+ {
+   "id": 422,
+   "genre": "Guide",
+   "title": "Charlie's Angels",
+   "author": "Ax",
+   "publisher": "Thia",
+   "edition": 1
+ },
+ {
+   "id": 423,
+   "genre": "Cookbooks",
+   "title": "Man Apart, A",
+   "author": "Lissa",
+   "publisher": "Maribelle",
+   "edition": 3
+ },
+ {
+   "id": 424,
+   "genre": " Spirituality & New Age",
+   "title": "Barchester Chronicles, The",
+   "author": "Tessie",
+   "publisher": "Aveline",
+   "edition": 5
+ },
+ {
+   "id": 425,
+   "genre": "Religion",
+   "title": "Bridge, The (Die Brücke)",
+   "author": "Tremain",
+   "publisher": "Claresta",
+   "edition": 3
+ },
+ {
+   "id": 426,
+   "genre": "Guide",
+   "title": "Red River",
+   "author": "Michell",
+   "publisher": "Thibaut",
+   "edition": 5
+ },
+ {
+   "id": 427,
+   "genre": "Art",
+   "title": "Bittersweet Life, A (Dalkomhan insaeng)",
+   "author": "Jayson",
+   "publisher": "Ema",
+   "edition": 5
+ },
+ {
+   "id": 428,
+   "genre": " Spirituality & New Age",
+   "title": "Golden Compass, The",
+   "author": "Tobe",
+   "publisher": "Silvia",
+   "edition": 1
+ },
+ {
+   "id": 429,
+   "genre": "Action and Adventure",
+   "title": "Crazy Mama",
+   "author": "Chiquia",
+   "publisher": "Clerkclaude",
+   "edition": 2
+ },
+ {
+   "id": 430,
+   "genre": "Guide",
+   "title": "You and Me (Ty i ya)",
+   "author": "Avril",
+   "publisher": "Cecile",
+   "edition": 1
+ },
+ {
+   "id": 431,
+   "genre": "academic",
+   "title": "Pear Tree, The (Derakhte Golabi)",
+   "author": "Edd",
+   "publisher": "Sheba",
+   "edition": 3
+ },
+ {
+   "id": 432,
+   "genre": "Mystery",
+   "title": "Brother of Sleep (Schlafes Bruder)",
+   "author": "Lea",
+   "publisher": "Nev",
+   "edition": 3
+ },
+ {
+   "id": 433,
+   "genre": "Diaries",
+   "title": "Armwrestler From Solitude, The (Armbryterskan från Ensamheten)",
+   "author": "Chester",
+   "publisher": "Annmaria",
+   "edition": 2
+ },
+ {
+   "id": 434,
+   "genre": "Drama",
+   "title": "Nick the Sting",
+   "author": "Minna",
+   "publisher": "Suzann",
+   "edition": 3
+ },
+ {
+   "id": 435,
+   "genre": "Math",
+   "title": "Twice Born (Venuto al mondo)",
+   "author": "Banky",
+   "publisher": "Berkeley",
+   "edition": 2
+ },
+ {
+   "id": 436,
+   "genre": "Math",
+   "title": "Clown",
+   "author": "Michelle",
+   "publisher": "Stephani",
+   "edition": 3
+ },
+ {
+   "id": 437,
+   "genre": "Diaries",
+   "title": "Impulse",
+   "author": "Sharron",
+   "publisher": "Vicki",
+   "edition": 5
+ },
+ {
+   "id": 438,
+   "genre": "Drama",
+   "title": "White Reindeer, The (Valkoinen peura)",
+   "author": "Tiphany",
+   "publisher": "Ronnie",
+   "edition": 1
+ },
+ {
+   "id": 439,
+   "genre": "Children's",
+   "title": "Hollywood or Bust",
+   "author": "Glenden",
+   "publisher": "Aldric",
+   "edition": 3
+ },
+ {
+   "id": 440,
+   "genre": "Romance",
+   "title": "Plastic Bag",
+   "author": "Jose",
+   "publisher": "Holly-anne",
+   "edition": 2
+ },
+ {
+   "id": 441,
+   "genre": "Travel",
+   "title": "Short Game, The",
+   "author": "Joice",
+   "publisher": "Sibyl",
+   "edition": 5
+ },
+ {
+   "id": 442,
+   "genre": "Science fiction",
+   "title": "Dreamer: Inspired by a True Story",
+   "author": "Leeann",
+   "publisher": "Jeramie",
+   "edition": 2
+ },
+ {
+   "id": 443,
+   "genre": "Comics",
+   "title": "Sun Don't Shine",
+   "author": "Amandi",
+   "publisher": "Thaine",
+   "edition": 1
+ },
+ {
+   "id": 444,
+   "genre": "Comics",
+   "title": "Sweeney, The",
+   "author": "Leonerd",
+   "publisher": "Letisha",
+   "edition": 5
+ },
+ {
+   "id": 445,
+   "genre": "Encyclopedias",
+   "title": "Fever Pitch",
+   "author": "Charyl",
+   "publisher": "Jelene",
+   "edition": 4
+ },
+ {
+   "id": 446,
+   "genre": "Diaries",
+   "title": "Panda! Go Panda! (Panda kopanda)",
+   "author": "Demetrius",
+   "publisher": "Tobias",
+   "edition": 1
+ },
+ {
+   "id": 447,
+   "genre": "Satire",
+   "title": "Panda! Go Panda! (Panda kopanda)",
+   "author": "Ibbie",
+   "publisher": "Caprice",
+   "edition": 4
+ },
+ {
+   "id": 448,
+   "genre": "Action and Adventure",
+   "title": "Magic Camp",
+   "author": "Tabby",
+   "publisher": "Gaylor",
+   "edition": 5
+ },
+ {
+   "id": 449,
+   "genre": "Cookbooks",
+   "title": "Semper Fi",
+   "author": "Olenka",
+   "publisher": "Mallory",
+   "edition": 5
+ },
+ {
+   "id": 450,
+   "genre": "Diaries",
+   "title": "Bang",
+   "author": "Glenna",
+   "publisher": "Hermie",
+   "edition": 5
+ },
+ {
+   "id": 451,
+   "genre": "Children's",
+   "title": "Dim Sum: A Little Bit of Heart",
+   "author": "Chaunce",
+   "publisher": "Melonie",
+   "edition": 1
+ },
+ {
+   "id": 452,
+   "genre": "Poetry",
+   "title": "Sorcerer's Apprentice, The",
+   "author": "Betta",
+   "publisher": "Rosy",
+   "edition": 5
+ },
+ {
+   "id": 453,
+   "genre": "Satire",
+   "title": "Snatch",
+   "author": "Turner",
+   "publisher": "Talbert",
+   "edition": 2
+ },
+ {
+   "id": 454,
+   "genre": "horror",
+   "title": "Wizard of Baghdad, The",
+   "author": "Catrina",
+   "publisher": "Danica",
+   "edition": 5
+ },
+ {
+   "id": 455,
+   "genre": "Comics",
+   "title": "La Rabbia",
+   "author": "Liva",
+   "publisher": "Merridie",
+   "edition": 3
+ },
+ {
+   "id": 456,
+   "genre": "Horror",
+   "title": "Titanic",
+   "author": "Wenda",
+   "publisher": "Dicky",
+   "edition": 5
+ },
+ {
+   "id": 457,
+   "genre": "Religion",
+   "title": "Guy and a Gal, A (En kille och en tjej)",
+   "author": "Darcee",
+   "publisher": "Emalee",
+   "edition": 4
+ },
+ {
+   "id": 458,
+   "genre": "Self help",
+   "title": "Maelström",
+   "author": "Cinnamon",
+   "publisher": "Edan",
+   "edition": 1
+ },
+ {
+   "id": 459,
+   "genre": "Encyclopedias",
+   "title": "Howard Zinn: You Can't Be Neutral on a Moving Train",
+   "author": "Natalee",
+   "publisher": "Vivien",
+   "edition": 4
+ },
+ {
+   "id": 460,
+   "genre": "horror",
+   "title": "Ideal Husband, An",
+   "author": "Giovanni",
+   "publisher": "Gwenora",
+   "edition": 4
+ },
+ {
+   "id": 461,
+   "genre": "Poetry",
+   "title": "Hard Times",
+   "author": "Hanan",
+   "publisher": "Archibaldo",
+   "edition": 5
+ },
+ {
+   "id": 462,
+   "genre": "Religion",
+   "title": "Statues Also Die (Statues meurent aussi, Les)",
+   "author": "Colline",
+   "publisher": "Morna",
+   "edition": 3
+ },
+ {
+   "id": 463,
+   "genre": "academic",
+   "title": "Garbage Pail Kids Movie, The",
+   "author": "Sophey",
+   "publisher": "Flossie",
+   "edition": 1
+ },
+ {
+   "id": 464,
+   "genre": "Journals",
+   "title": "Moebius Redux: A Life in Pictures",
+   "author": "Findley",
+   "publisher": "Neil",
+   "edition": 2
+ },
+ {
+   "id": 465,
+   "genre": "Guide",
+   "title": "How to Make Money Selling Drugs",
+   "author": "Zora",
+   "publisher": "Ardenia",
+   "edition": 5
+ },
+ {
+   "id": 466,
+   "genre": "Poetry",
+   "title": "Babylon A.D.",
+   "author": "Irv",
+   "publisher": "Farr",
+   "edition": 1
+ },
+ {
+   "id": 467,
+   "genre": "Diaries",
+   "title": "Premature",
+   "author": "Brady",
+   "publisher": "Wade",
+   "edition": 3
+ },
+ {
+   "id": 468,
+   "genre": "Action and Adventure",
+   "title": "Bopha!",
+   "author": "Lodovico",
+   "publisher": "Douglass",
+   "edition": 1
+ },
+ {
+   "id": 469,
+   "genre": "Journals",
+   "title": "Donovan's Reef",
+   "author": "Bambie",
+   "publisher": "Clerc",
+   "edition": 5
+ },
+ {
+   "id": 470,
+   "genre": "Self help",
+   "title": "Injury to One, An",
+   "author": "Min",
+   "publisher": "Anatol",
+   "edition": 4
+ },
+ {
+   "id": 471,
+   "genre": "Health",
+   "title": "Guarding Tess",
+   "author": "Morlee",
+   "publisher": "Morgan",
+   "edition": 5
+ },
+ {
+   "id": 472,
+   "genre": "Children's",
+   "title": "Cazuza - O Tempo Não Pára",
+   "author": "Sonny",
+   "publisher": "Pinchas",
+   "edition": 2
+ },
+ {
+   "id": 473,
+   "genre": "Anthology",
+   "title": "7 Women (a.k.a. Seven Women)",
+   "author": "Regan",
+   "publisher": "Gretel",
+   "edition": 5
+ },
+ {
+   "id": 474,
+   "genre": "Dictionaries",
+   "title": "A Second Chance",
+   "author": "Alasdair",
+   "publisher": "Dell",
+   "edition": 3
+ },
+ {
+   "id": 475,
+   "genre": "Diaries",
+   "title": "Cocktail",
+   "author": "Glenden",
+   "publisher": "Ailee",
+   "edition": 1
+ },
+ {
+   "id": 476,
+   "genre": "Science fiction",
+   "title": "Le Mans",
+   "author": "Dedie",
+   "publisher": "Darius",
+   "edition": 4
+ },
+ {
+   "id": 477,
+   "genre": "Poetry",
+   "title": "Fear Strikes Out",
+   "author": "Boony",
+   "publisher": "Katalin",
+   "edition": 4
+ },
+ {
+   "id": 478,
+   "genre": " Spirituality & New Age",
+   "title": "Wild in the Streets",
+   "author": "Bryana",
+   "publisher": "Samara",
+   "edition": 5
+ },
+ {
+   "id": 479,
+   "genre": "Satire",
+   "title": "Ogre, The (Unhold, Der)",
+   "author": "Northrop",
+   "publisher": "Aimee",
+   "edition": 2
+ },
+ {
+   "id": 480,
+   "genre": "Romance",
+   "title": "City Heat",
+   "author": "Cloe",
+   "publisher": "Sherwood",
+   "edition": 2
+ },
+ {
+   "id": 481,
+   "genre": "Horror",
+   "title": "America Before Columbus",
+   "author": "Brandise",
+   "publisher": "Kalle",
+   "edition": 5
+ },
+ {
+   "id": 482,
+   "genre": "Dictionaries",
+   "title": "Decline of the American Empire, The (Déclin de l'empire américain, Le)",
+   "author": "Theodosia",
+   "publisher": "Honor",
+   "edition": 2
+ },
+ {
+   "id": 483,
+   "genre": "Anthology",
+   "title": "Amira & Sam",
+   "author": "Dulcea",
+   "publisher": "Lusa",
+   "edition": 4
+ },
+ {
+   "id": 484,
+   "genre": "Health",
+   "title": "Dead End Drive-In",
+   "author": "Barton",
+   "publisher": "Nap",
+   "edition": 3
+ },
+ {
+   "id": 485,
+   "genre": "Action and Adventure",
+   "title": "Last Emperor, The",
+   "author": "Nikola",
+   "publisher": "Oona",
+   "edition": 3
+ },
+ {
+   "id": 486,
+   "genre": "Dictionaries",
+   "title": "Tarzan and His Mate",
+   "author": "Thorvald",
+   "publisher": "Lea",
+   "edition": 2
+ },
+ {
+   "id": 487,
+   "genre": " Spirituality & New Age",
+   "title": "Always for Pleasure",
+   "author": "Mikel",
+   "publisher": "Goldarina",
+   "edition": 5
+ },
+ {
+   "id": 488,
+   "genre": "Science",
+   "title": "Float",
+   "author": "Margy",
+   "publisher": "Kimberly",
+   "edition": 1
+ },
+ {
+   "id": 489,
+   "genre": "Mystery",
+   "title": "Morocco",
+   "author": "Pierson",
+   "publisher": "Dukey",
+   "edition": 5
+ },
+ {
+   "id": 490,
+   "genre": "Poetry",
+   "title": "Police State",
+   "author": "Delano",
+   "publisher": "Charmine",
+   "edition": 5
+ },
+ {
+   "id": 491,
+   "genre": "Travel",
+   "title": "Boy and His Dog, A",
+   "author": "Merle",
+   "publisher": "Gwen",
+   "edition": 5
+ },
+ {
+   "id": 492,
+   "genre": "Self help",
+   "title": "Die, Monster, Die!",
+   "author": "Bethanne",
+   "publisher": "Bennie",
+   "edition": 2
+ },
+ {
+   "id": 493,
+   "genre": "Mystery",
+   "title": "Goldfinger",
+   "author": "Rossie",
+   "publisher": "Hiram",
+   "edition": 3
+ },
+ {
+   "id": 494,
+   "genre": "Travel",
+   "title": "Alamo, The",
+   "author": "Easter",
+   "publisher": "Victoir",
+   "edition": 5
+ },
+ {
+   "id": 495,
+   "genre": "Action and Adventure",
+   "title": "Other Woman, The",
+   "author": "Nolan",
+   "publisher": "Viv",
+   "edition": 1
+ },
+ {
+   "id": 496,
+   "genre": "Dictionaries",
+   "title": "Needle, The (Igla)",
+   "author": "Paulita",
+   "publisher": "Otto",
+   "edition": 3
+ },
+ {
+   "id": 497,
+   "genre": "Dictionaries",
+   "title": "Zozo",
+   "author": "Dahlia",
+   "publisher": "Giffie",
+   "edition": 3
+ },
+ {
+   "id": 498,
+   "genre": "Math",
+   "title": "Forbidden Planet",
+   "author": "Reube",
+   "publisher": "Ivory",
+   "edition": 5
+ },
+ {
+   "id": 499,
+   "genre": "Horror",
+   "title": "Confessor Caressor",
+   "author": "Conrad",
+   "publisher": "Anne-corinne",
+   "edition": 3
+ },
+ {
+   "id": 500,
+   "genre": "Religion",
+   "title": "Woman Under the Influence, A",
+   "author": "Ebba",
+   "publisher": "Albertina",
+   "edition": 1
+ },
+ {
+   "id": 501,
+   "genre": "Mystery",
+   "title": "My Name is Juani (Yo soy la Juani)",
+   "author": "Carolin",
+   "publisher": "Esma",
+   "edition": 3
+ },
+ {
+   "id": 502,
+   "genre": " Spirituality & New Age",
+   "title": "8th Wonderland",
+   "author": "Yelena",
+   "publisher": "Vinny",
+   "edition": 5
+ },
+ {
+   "id": 503,
+   "genre": "biography",
+   "title": "McConkey",
+   "author": "Umberto",
+   "publisher": "Jessamine",
+   "edition": 2
+ },
+ {
+   "id": 504,
+   "genre": "Mystery",
+   "title": "One Bright Shining Moment",
+   "author": "Alvira",
+   "publisher": "Cindie",
+   "edition": 1
+ },
+ {
+   "id": 505,
+   "genre": "Anthology",
+   "title": "Dragon Hunter",
+   "author": "Lura",
+   "publisher": "Jarrid",
+   "edition": 3
+ },
+ {
+   "id": 506,
+   "genre": "Mystery",
+   "title": "Jungle Book 2, The",
+   "author": "Virgie",
+   "publisher": "Fergus",
+   "edition": 4
+ },
+ {
+   "id": 507,
+   "genre": "History",
+   "title": "Bravo Two Zero ",
+   "author": "Xenia",
+   "publisher": "Padgett",
+   "edition": 4
+ },
+ {
+   "id": 508,
+   "genre": "Romance",
+   "title": "Titanica",
+   "author": "Mayer",
+   "publisher": "Brade",
+   "edition": 3
+ },
+ {
+   "id": 509,
+   "genre": "Religion",
+   "title": "Harry Potter and the Goblet of Fire",
+   "author": "Rachael",
+   "publisher": "Stanford",
+   "edition": 3
+ },
+ {
+   "id": 510,
+   "genre": "Health",
+   "title": "Fill the Void (Lemale et ha'halal)",
+   "author": "Karole",
+   "publisher": "Emalee",
+   "edition": 5
+ },
+ {
+   "id": 511,
+   "genre": "Self help",
+   "title": "Deck the Halls",
+   "author": "Dionisio",
+   "publisher": "Huntley",
+   "edition": 4
+ },
+ {
+   "id": 512,
+   "genre": "biography",
+   "title": "Kill by Inches",
+   "author": "Stacie",
+   "publisher": "Loydie",
+   "edition": 5
+ },
+ {
+   "id": 513,
+   "genre": "Romance",
+   "title": "Summer by the River, A (Kuningasjätkä)",
+   "author": "Tandi",
+   "publisher": "Otto",
+   "edition": 4
+ },
+ {
+   "id": 514,
+   "genre": "History",
+   "title": "Surrogates",
+   "author": "Erek",
+   "publisher": "Minny",
+   "edition": 5
+ },
+ {
+   "id": 515,
+   "genre": "Diaries",
+   "title": "Invisible Man Returns, The",
+   "author": "Clayborne",
+   "publisher": "Katalin",
+   "edition": 3
+ },
+ {
+   "id": 516,
+   "genre": "Self help",
+   "title": "Away with Words (San tiao ren)",
+   "author": "Salomone",
+   "publisher": "Paxton",
+   "edition": 5
+ },
+ {
+   "id": 517,
+   "genre": "Self help",
+   "title": "Shawshank Redemption, The",
+   "author": "Nicoli",
+   "publisher": "Sinclare",
+   "edition": 3
+ },
+ {
+   "id": 518,
+   "genre": "Math",
+   "title": "Addams Family, The",
+   "author": "Hank",
+   "publisher": "Bibbie",
+   "edition": 4
+ },
+ {
+   "id": 519,
+   "genre": "Diaries",
+   "title": "Immortel (ad vitam) (Immortal)",
+   "author": "Phaidra",
+   "publisher": "Laurena",
+   "edition": 1
+ },
+ {
+   "id": 520,
+   "genre": "biography",
+   "title": "Defender, The",
+   "author": "Temple",
+   "publisher": "Reeva",
+   "edition": 3
+ },
+ {
+   "id": 521,
+   "genre": "Romance",
+   "title": "Tommy",
+   "author": "Kattie",
+   "publisher": "Marwin",
+   "edition": 3
+ },
+ {
+   "id": 522,
+   "genre": "horror",
+   "title": "Savages, The",
+   "author": "Alyssa",
+   "publisher": "Somerset",
+   "edition": 4
+ },
+ {
+   "id": 523,
+   "genre": "Mystery",
+   "title": "Dinosaurs: A Fun Filled Trip Back in Time",
+   "author": "Nikoletta",
+   "publisher": "Abigael",
+   "edition": 3
+ },
+ {
+   "id": 524,
+   "genre": "Cookbooks",
+   "title": "Silent Night, Deadly Night",
+   "author": "Aube",
+   "publisher": "Ricky",
+   "edition": 1
+ },
+ {
+   "id": 525,
+   "genre": "Math",
+   "title": "Here and There (Tamo i ovde)",
+   "author": "Kelvin",
+   "publisher": "Maryann",
+   "edition": 1
+ },
+ {
+   "id": 526,
+   "genre": "biography",
+   "title": "Man for All Seasons, A",
+   "author": "Gal",
+   "publisher": "Claiborne",
+   "edition": 5
+ },
+ {
+   "id": 527,
+   "genre": "Drama",
+   "title": "Shadow People",
+   "author": "Susann",
+   "publisher": "Drusi",
+   "edition": 4
+ },
+ {
+   "id": 528,
+   "genre": "Health",
+   "title": "All at Sea",
+   "author": "Terrye",
+   "publisher": "Erv",
+   "edition": 1
+ },
+ {
+   "id": 529,
+   "genre": "Action and Adventure",
+   "title": "Naked Gun 33 1/3: The Final Insult",
+   "author": "Salomo",
+   "publisher": "Egbert",
+   "edition": 1
+ },
+ {
+   "id": 530,
+   "genre": "Romance",
+   "title": "Big Bang Theory, The (2007-)",
+   "author": "Tana",
+   "publisher": "Ricoriki",
+   "edition": 2
+ },
+ {
+   "id": 531,
+   "genre": "biography",
+   "title": "Fighting",
+   "author": "Annora",
+   "publisher": "Adrea",
+   "edition": 4
+ },
+ {
+   "id": 532,
+   "genre": "Poetry",
+   "title": "Keeping Mum",
+   "author": "Dilan",
+   "publisher": "Maximilianus",
+   "edition": 2
+ },
+ {
+   "id": 533,
+   "genre": "Comics",
+   "title": "Troop Beverly Hills",
+   "author": "Sybila",
+   "publisher": "Catlaina",
+   "edition": 4
+ },
+ {
+   "id": 534,
+   "genre": "Self help",
+   "title": "Body Snatcher, The",
+   "author": "Forester",
+   "publisher": "Leonidas",
+   "edition": 4
+ },
+ {
+   "id": 535,
+   "genre": " Spirituality & New Age",
+   "title": "Hoax, The",
+   "author": "Oates",
+   "publisher": "Ibby",
+   "edition": 4
+ },
+ {
+   "id": 536,
+   "genre": "Diaries",
+   "title": "Comic Book Villains",
+   "author": "Tremaine",
+   "publisher": "Lurleen",
+   "edition": 5
+ },
+ {
+   "id": 537,
+   "genre": "Math",
+   "title": "Black Butterflies",
+   "author": "Had",
+   "publisher": "Viola",
+   "edition": 2
+ },
+ {
+   "id": 538,
+   "genre": "academic",
+   "title": "After the Wedding (Efter brylluppet)",
+   "author": "Christyna",
+   "publisher": "Claudine",
+   "edition": 5
+ },
+ {
+   "id": 539,
+   "genre": "Children's",
+   "title": "Beauty Shop",
+   "author": "Claudian",
+   "publisher": "Baron",
+   "edition": 2
+ },
+ {
+   "id": 540,
+   "genre": "academic",
+   "title": "China Blue",
+   "author": "Barr",
+   "publisher": "Guinna",
+   "edition": 1
+ },
+ {
+   "id": 541,
+   "genre": "Satire",
+   "title": "The Dependent",
+   "author": "Bucky",
+   "publisher": "Pauly",
+   "edition": 4
+ },
+ {
+   "id": 542,
+   "genre": "Self help",
+   "title": "Killer, The (Die xue shuang xiong)",
+   "author": "Montgomery",
+   "publisher": "Magda",
+   "edition": 5
+ },
+ {
+   "id": 543,
+   "genre": "Science",
+   "title": "Prison Break: The Final Break",
+   "author": "Ilise",
+   "publisher": "Harmonia",
+   "edition": 2
+ },
+ {
+   "id": 544,
+   "genre": "biography",
+   "title": "Hunger",
+   "author": "Raf",
+   "publisher": "Herman",
+   "edition": 3
+ },
+ {
+   "id": 545,
+   "genre": "horror",
+   "title": "Leonard Cohen: I'm Your Man",
+   "author": "Gawain",
+   "publisher": "Aloisia",
+   "edition": 1
+ },
+ {
+   "id": 546,
+   "genre": "Math",
+   "title": "House on Haunted Hill",
+   "author": "Danita",
+   "publisher": "Edy",
+   "edition": 2
+ },
+ {
+   "id": 547,
+   "genre": "Dictionaries",
+   "title": "Sunshine Cleaning",
+   "author": "Ogdan",
+   "publisher": "Ferdinand",
+   "edition": 4
+ },
+ {
+   "id": 548,
+   "genre": "Self help",
+   "title": "Van Helsing",
+   "author": "Luci",
+   "publisher": "Ferguson",
+   "edition": 3
+ },
+ {
+   "id": 549,
+   "genre": "Dictionaries",
+   "title": "Aliens",
+   "author": "Bernadette",
+   "publisher": "Currey",
+   "edition": 3
+ },
+ {
+   "id": 550,
+   "genre": "Anthology",
+   "title": "Dance of Outlaws (Häätanssi)",
+   "author": "Ermengarde",
+   "publisher": "Fiann",
+   "edition": 5
+ },
+ {
+   "id": 551,
+   "genre": "Dictionaries",
+   "title": "Split Second",
+   "author": "Tobiah",
+   "publisher": "Chiarra",
+   "edition": 3
+ },
+ {
+   "id": 552,
+   "genre": "Poetry",
+   "title": "Violets Are Blue...",
+   "author": "Gnni",
+   "publisher": "Marcel",
+   "edition": 4
+ },
+ {
+   "id": 553,
+   "genre": "Science fiction",
+   "title": "eXistenZ",
+   "author": "Freddie",
+   "publisher": "Gauthier",
+   "edition": 4
+ },
+ {
+   "id": 554,
+   "genre": "Religion",
+   "title": "Hamlet",
+   "author": "Hamnet",
+   "publisher": "Westleigh",
+   "edition": 4
+ },
+ {
+   "id": 555,
+   "genre": "academic",
+   "title": "Dallas Buyers Club",
+   "author": "Marabel",
+   "publisher": "Lucio",
+   "edition": 5
+ },
+ {
+   "id": 556,
+   "genre": "biography",
+   "title": "Close Encounters of the Third Kind",
+   "author": "Dionysus",
+   "publisher": "Erna",
+   "edition": 3
+ },
+ {
+   "id": 557,
+   "genre": "History",
+   "title": "Bad Lieutenant: Port of Call New Orleans",
+   "author": "Rheba",
+   "publisher": "Issie",
+   "edition": 1
+ },
+ {
+   "id": 558,
+   "genre": "Cookbooks",
+   "title": "Big Buck Bunny",
+   "author": "Perl",
+   "publisher": "Morganne",
+   "edition": 5
+ },
+ {
+   "id": 559,
+   "genre": "Self help",
+   "title": "Cheyenne Social Club, The",
+   "author": "Constancy",
+   "publisher": "Dannel",
+   "edition": 3
+ },
+ {
+   "id": 560,
+   "genre": "Science fiction",
+   "title": "Cruising",
+   "author": "Eunice",
+   "publisher": "Clarissa",
+   "edition": 5
+ },
+ {
+   "id": 561,
+   "genre": "biography",
+   "title": "xXx: State of the Union",
+   "author": "Caty",
+   "publisher": "Svend",
+   "edition": 2
+ },
+ {
+   "id": 562,
+   "genre": "Math",
+   "title": "Desperate Measures",
+   "author": "Joachim",
+   "publisher": "Paige",
+   "edition": 1
+ },
+ {
+   "id": 563,
+   "genre": "biography",
+   "title": "Platform (Zhantai)",
+   "author": "Merline",
+   "publisher": "Arielle",
+   "edition": 5
+ },
+ {
+   "id": 564,
+   "genre": "Children's",
+   "title": "Ewoks: The Battle for Endor",
+   "author": "Preston",
+   "publisher": "Darya",
+   "edition": 1
+ },
+ {
+   "id": 565,
+   "genre": "Science fiction",
+   "title": "Men Who Made the Movies: Samuel Fuller, The",
+   "author": "Salim",
+   "publisher": "Sasha",
+   "edition": 3
+ },
+ {
+   "id": 566,
+   "genre": "Math",
+   "title": "Paris 36 (Faubourg 36)",
+   "author": "Deanne",
+   "publisher": "Jefferson",
+   "edition": 2
+ },
+ {
+   "id": 567,
+   "genre": "Self help",
+   "title": "Paranormal Activity 4",
+   "author": "Dugald",
+   "publisher": "Iris",
+   "edition": 4
+ },
+ {
+   "id": 568,
+   "genre": " Spirituality & New Age",
+   "title": "The Concert for Bangladesh",
+   "author": "Danica",
+   "publisher": "Sarine",
+   "edition": 1
+ },
+ {
+   "id": 569,
+   "genre": " Spirituality & New Age",
+   "title": "Adam & Steve",
+   "author": "Annmaria",
+   "publisher": "Saunderson",
+   "edition": 4
+ },
+ {
+   "id": 570,
+   "genre": "Drama",
+   "title": "Odessa File, The",
+   "author": "Birk",
+   "publisher": "Caldwell",
+   "edition": 1
+ },
+ {
+   "id": 571,
+   "genre": "Science fiction",
+   "title": "Gayby",
+   "author": "Linn",
+   "publisher": "Anica",
+   "edition": 2
+ },
+ {
+   "id": 572,
+   "genre": "Horror",
+   "title": "Truly, Madly, Deeply",
+   "author": "Wylie",
+   "publisher": "Hesther",
+   "edition": 3
+ },
+ {
+   "id": 573,
+   "genre": "Satire",
+   "title": "Winner, The",
+   "author": "Bendicty",
+   "publisher": "Averyl",
+   "edition": 2
+ },
+ {
+   "id": 574,
+   "genre": "biography",
+   "title": "Attack, The",
+   "author": "Roma",
+   "publisher": "Angelita",
+   "edition": 1
+ },
+ {
+   "id": 575,
+   "genre": "Art",
+   "title": "Piggy",
+   "author": "Aldus",
+   "publisher": "Wiatt",
+   "edition": 4
+ },
+ {
+   "id": 576,
+   "genre": "History",
+   "title": "Get Thrashed: The Story of Thrash Metal",
+   "author": "Anne-corinne",
+   "publisher": "Karl",
+   "edition": 4
+ },
+ {
+   "id": 577,
+   "genre": "Encyclopedias",
+   "title": "Poultrygeist: Night of the Chicken Dead",
+   "author": "Jerrie",
+   "publisher": "Addia",
+   "edition": 2
+ },
+ {
+   "id": 578,
+   "genre": "Horror",
+   "title": "George & A.J.",
+   "author": "Wallache",
+   "publisher": "Howie",
+   "edition": 4
+ },
+ {
+   "id": 579,
+   "genre": " Spirituality & New Age",
+   "title": "Once Bitten",
+   "author": "Charla",
+   "publisher": "Caesar",
+   "edition": 3
+ },
+ {
+   "id": 580,
+   "genre": "academic",
+   "title": "Lower Depths, The (Les bas-fonds)",
+   "author": "Isa",
+   "publisher": "Innis",
+   "edition": 2
+ },
+ {
+   "id": 581,
+   "genre": "horror",
+   "title": "Lucy",
+   "author": "Joella",
+   "publisher": "Ford",
+   "edition": 3
+ },
+ {
+   "id": 582,
+   "genre": "Cookbooks",
+   "title": "Mr. Magorium's Wonder Emporium",
+   "author": "Anatollo",
+   "publisher": "Adda",
+   "edition": 4
+ },
+ {
+   "id": 583,
+   "genre": "Health",
+   "title": "Emergo (Apartment 143)",
+   "author": "Dougy",
+   "publisher": "Vonnie",
+   "edition": 3
+ },
+ {
+   "id": 584,
+   "genre": "History",
+   "title": "J. Gang Meets Dynamite Harry, The (Jönssonligan & DynamitHarry)",
+   "author": "Cecile",
+   "publisher": "Florinda",
+   "edition": 2
+ },
+ {
+   "id": 585,
+   "genre": "Comics",
+   "title": "Silver Streak",
+   "author": "Erin",
+   "publisher": "Melinda",
+   "edition": 5
+ },
+ {
+   "id": 586,
+   "genre": "Science fiction",
+   "title": "Vodka Lemon",
+   "author": "Connie",
+   "publisher": "Chrissie",
+   "edition": 5
+ },
+ {
+   "id": 587,
+   "genre": "academic",
+   "title": "Sliding Doors",
+   "author": "Hailee",
+   "publisher": "Elka",
+   "edition": 2
+ },
+ {
+   "id": 588,
+   "genre": "Comics",
+   "title": "Proof of Life",
+   "author": "Christoph",
+   "publisher": "Hermina",
+   "edition": 1
+ },
+ {
+   "id": 589,
+   "genre": "Science",
+   "title": "Wanted",
+   "author": "Letta",
+   "publisher": "Sergei",
+   "edition": 5
+ },
+ {
+   "id": 590,
+   "genre": "Travel",
+   "title": "Just Sex and Nothing Else (Csak szex és más semmi)",
+   "author": "Dorolisa",
+   "publisher": "Genny",
+   "edition": 2
+ },
+ {
+   "id": 591,
+   "genre": " Spirituality & New Age",
+   "title": "Reasonable Doubt",
+   "author": "Ira",
+   "publisher": "Maggie",
+   "edition": 2
+ },
+ {
+   "id": 592,
+   "genre": "Guide",
+   "title": "Woman in the Moon (By Rocket to the Moon) (Frau im Mond)",
+   "author": "Opal",
+   "publisher": "Marje",
+   "edition": 4
+ },
+ {
+   "id": 593,
+   "genre": "biography",
+   "title": "Gerontophilia",
+   "author": "Kippy",
+   "publisher": "Gillie",
+   "edition": 3
+ },
+ {
+   "id": 594,
+   "genre": "biography",
+   "title": "Al Franken: God Spoke",
+   "author": "Gillan",
+   "publisher": "Aurlie",
+   "edition": 5
+ },
+ {
+   "id": 595,
+   "genre": "Mystery",
+   "title": "Gold Diggers: The Secret of Bear Mountain",
+   "author": "Carleen",
+   "publisher": "Perice",
+   "edition": 1
+ },
+ {
+   "id": 596,
+   "genre": "academic",
+   "title": "I Want to Be a Soldier",
+   "author": "Keeley",
+   "publisher": "Jasmina",
+   "edition": 2
+ },
+ {
+   "id": 597,
+   "genre": "Math",
+   "title": "Bekännelsen (Confession, The)",
+   "author": "Beverly",
+   "publisher": "Wally",
+   "edition": 5
+ },
+ {
+   "id": 598,
+   "genre": "Religion",
+   "title": "God Help the Girl",
+   "author": "Sybille",
+   "publisher": "Abbi",
+   "edition": 4
+ },
+ {
+   "id": 599,
+   "genre": "Math",
+   "title": "Fifth Estate, The",
+   "author": "Suzanna",
+   "publisher": "Babbette",
+   "edition": 3
+ },
+ {
+   "id": 600,
+   "genre": "Religion",
+   "title": "Night Train Murders (Last Stop on the Night Train) (Ultimo treno della notte, L')",
+   "author": "Thaddus",
+   "publisher": "Geno",
+   "edition": 4
+ },
+ {
+   "id": 601,
+   "genre": "Mystery",
+   "title": "Higher Ground",
+   "author": "Joleen",
+   "publisher": "Deva",
+   "edition": 2
+ },
+ {
+   "id": 602,
+   "genre": "Health",
+   "title": "42 Up",
+   "author": "Judas",
+   "publisher": "Alica",
+   "edition": 1
+ },
+ {
+   "id": 603,
+   "genre": "biography",
+   "title": "Zombies of the Stratosphere",
+   "author": "Bart",
+   "publisher": "Rosie",
+   "edition": 5
+ },
+ {
+   "id": 604,
+   "genre": " Spirituality & New Age",
+   "title": "Fire of Conscience (For lung)",
+   "author": "Carmelita",
+   "publisher": "Jeramey",
+   "edition": 4
+ },
+ {
+   "id": 605,
+   "genre": " Spirituality & New Age",
+   "title": "Ice Storm, The",
+   "author": "Mora",
+   "publisher": "Leonhard",
+   "edition": 3
+ },
+ {
+   "id": 606,
+   "genre": "Poetry",
+   "title": "Marsh, The",
+   "author": "Celine",
+   "publisher": "Bobinette",
+   "edition": 4
+ },
+ {
+   "id": 607,
+   "genre": "Children's",
+   "title": "Reckless",
+   "author": "Emilee",
+   "publisher": "Ibby",
+   "edition": 4
+ },
+ {
+   "id": 608,
+   "genre": "Comics",
+   "title": "Betrayal",
+   "author": "Kincaid",
+   "publisher": "Michaella",
+   "edition": 1
+ },
+ {
+   "id": 609,
+   "genre": "History",
+   "title": "Plymouth Adventure",
+   "author": "Dixie",
+   "publisher": "Dena",
+   "edition": 4
+ },
+ {
+   "id": 610,
+   "genre": "Cookbooks",
+   "title": "I Met Him in Paris",
+   "author": "Sherwynd",
+   "publisher": "Brynn",
+   "edition": 1
+ },
+ {
+   "id": 611,
+   "genre": "Science fiction",
+   "title": "Tennessee Johnson",
+   "author": "Allan",
+   "publisher": "Dov",
+   "edition": 3
+ },
+ {
+   "id": 612,
+   "genre": "Religion",
+   "title": "Ex-Lady",
+   "author": "Edward",
+   "publisher": "Roxane",
+   "edition": 5
+ },
+ {
+   "id": 613,
+   "genre": "Religion",
+   "title": "Smoke Signals",
+   "author": "Chicky",
+   "publisher": "Tracee",
+   "edition": 2
+ },
+ {
+   "id": 614,
+   "genre": "Satire",
+   "title": "Jonathan Livingston Seagull",
+   "author": "Freeman",
+   "publisher": "Bale",
+   "edition": 1
+ },
+ {
+   "id": 615,
+   "genre": "Science fiction",
+   "title": "Bad Influence",
+   "author": "Alvera",
+   "publisher": "Crin",
+   "edition": 5
+ },
+ {
+   "id": 616,
+   "genre": "Guide",
+   "title": "Holiday for Drumsticks",
+   "author": "Stepha",
+   "publisher": "Minerva",
+   "edition": 3
+ },
+ {
+   "id": 617,
+   "genre": "Romance",
+   "title": "Tulsa",
+   "author": "Henri",
+   "publisher": "Jayme",
+   "edition": 1
+ },
+ {
+   "id": 618,
+   "genre": "Action and Adventure",
+   "title": "Rouge (Yin ji kau)",
+   "author": "Ollie",
+   "publisher": "Lilah",
+   "edition": 5
+ },
+ {
+   "id": 619,
+   "genre": "Encyclopedias",
+   "title": "Long Voyage Home, The",
+   "author": "Catharine",
+   "publisher": "Dimitry",
+   "edition": 1
+ },
+ {
+   "id": 620,
+   "genre": "Dictionaries",
+   "title": "Jungle Creature: Hugo, The (Jungledyret) (Go Hugo Go)",
+   "author": "Merrel",
+   "publisher": "Natalya",
+   "edition": 1
+ },
+ {
+   "id": 621,
+   "genre": "Religion",
+   "title": "Heaven's Gate",
+   "author": "Josias",
+   "publisher": "Renate",
+   "edition": 3
+ },
+ {
+   "id": 622,
+   "genre": "academic",
+   "title": "House of Sand and Fog",
+   "author": "Nestor",
+   "publisher": "Hatty",
+   "edition": 1
+ },
+ {
+   "id": 623,
+   "genre": "Health",
+   "title": "Words, The",
+   "author": "Christiane",
+   "publisher": "Giustina",
+   "edition": 2
+ },
+ {
+   "id": 624,
+   "genre": "Science fiction",
+   "title": "House by the Cemetery, The (Quella villa accanto al cimitero)",
+   "author": "Nevin",
+   "publisher": "Alley",
+   "edition": 5
+ },
+ {
+   "id": 625,
+   "genre": "Science",
+   "title": "Centurion",
+   "author": "Davine",
+   "publisher": "Farleigh",
+   "edition": 5
+ },
+ {
+   "id": 626,
+   "genre": "Anthology",
+   "title": "Prom Night in Mississippi",
+   "author": "Kerk",
+   "publisher": "Reinhard",
+   "edition": 5
+ },
+ {
+   "id": 627,
+   "genre": "Mystery",
+   "title": "Cold Steel",
+   "author": "Brittany",
+   "publisher": "Fred",
+   "edition": 2
+ },
+ {
+   "id": 628,
+   "genre": "Mystery",
+   "title": "Married Life",
+   "author": "Robbert",
+   "publisher": "Billy",
+   "edition": 2
+ },
+ {
+   "id": 629,
+   "genre": "Poetry",
+   "title": "One Million Years B.C.",
+   "author": "Irene",
+   "publisher": "Noach",
+   "edition": 5
+ },
+ {
+   "id": 630,
+   "genre": "Art",
+   "title": "Eye Above the Well, The (Het oog boven de put)",
+   "author": "Felike",
+   "publisher": "Averyl",
+   "edition": 1
+ },
+ {
+   "id": 631,
+   "genre": "Comics",
+   "title": "Far From Home: The Adventures of Yellow Dog",
+   "author": "Timi",
+   "publisher": "Sydelle",
+   "edition": 1
+ },
+ {
+   "id": 632,
+   "genre": "Dictionaries",
+   "title": "Joe Strummer: The Future Is Unwritten",
+   "author": "Hadria",
+   "publisher": "Malinde",
+   "edition": 5
+ },
+ {
+   "id": 633,
+   "genre": "Children's",
+   "title": "Wonderful Days (a.k.a. Sky Blue)",
+   "author": "Mikaela",
+   "publisher": "Forest",
+   "edition": 4
+ },
+ {
+   "id": 634,
+   "genre": "Cookbooks",
+   "title": "100 Rifles",
+   "author": "Yurik",
+   "publisher": "Josepha",
+   "edition": 1
+ },
+ {
+   "id": 635,
+   "genre": "academic",
+   "title": "This Is the Night",
+   "author": "Candis",
+   "publisher": "Melantha",
+   "edition": 1
+ },
+ {
+   "id": 636,
+   "genre": "Mystery",
+   "title": "In Fear",
+   "author": "Cedric",
+   "publisher": "Zacharia",
+   "edition": 1
+ },
+ {
+   "id": 637,
+   "genre": "History",
+   "title": "Xiu Xiu: The Sent-Down Girl (Tian yu)",
+   "author": "Tailor",
+   "publisher": "Gizela",
+   "edition": 4
+ },
+ {
+   "id": 638,
+   "genre": "Science",
+   "title": "Escobar: Paradise Lost",
+   "author": "Rob",
+   "publisher": "Sidonia",
+   "edition": 3
+ },
+ {
+   "id": 639,
+   "genre": "biography",
+   "title": "Cold Turkey",
+   "author": "Bellina",
+   "publisher": "Harper",
+   "edition": 4
+ },
+ {
+   "id": 640,
+   "genre": "Mystery",
+   "title": "Fred & Vinnie",
+   "author": "Franz",
+   "publisher": "Corabella",
+   "edition": 2
+ },
+ {
+   "id": 641,
+   "genre": "Math",
+   "title": "Goldene Zeiten",
+   "author": "Mamie",
+   "publisher": "Kimbell",
+   "edition": 2
+ },
+ {
+   "id": 642,
+   "genre": "biography",
+   "title": "Wuthering Heights",
+   "author": "Ainslee",
+   "publisher": "Stanfield",
+   "edition": 4
+ },
+ {
+   "id": 643,
+   "genre": "Diaries",
+   "title": "Spartacus",
+   "author": "Ruddy",
+   "publisher": "Melissa",
+   "edition": 5
+ },
+ {
+   "id": 644,
+   "genre": "Action and Adventure",
+   "title": "Dreams of  a Life",
+   "author": "Cilka",
+   "publisher": "Twyla",
+   "edition": 2
+ },
+ {
+   "id": 645,
+   "genre": "Math",
+   "title": "Brown of Harvard",
+   "author": "Nell",
+   "publisher": "Selena",
+   "edition": 4
+ },
+ {
+   "id": 646,
+   "genre": "Journals",
+   "title": "Lesbian Vampire Killers",
+   "author": "Morissa",
+   "publisher": "Chadwick",
+   "edition": 3
+ },
+ {
+   "id": 647,
+   "genre": "Cookbooks",
+   "title": "Om Jai Jagadish",
+   "author": "Deerdre",
+   "publisher": "Deeann",
+   "edition": 1
+ },
+ {
+   "id": 648,
+   "genre": "Comics",
+   "title": "China Blue",
+   "author": "Husain",
+   "publisher": "Sybil",
+   "edition": 3
+ },
+ {
+   "id": 649,
+   "genre": "horror",
+   "title": "Killing of John Lennon, The",
+   "author": "Meade",
+   "publisher": "Georgine",
+   "edition": 4
+ },
+ {
+   "id": 650,
+   "genre": "Horror",
+   "title": "The Hire: Beat the Devil",
+   "author": "Karlyn",
+   "publisher": "Pinchas",
+   "edition": 5
+ },
+ {
+   "id": 651,
+   "genre": "Children's",
+   "title": "Atomic Twister",
+   "author": "George",
+   "publisher": "Klement",
+   "edition": 2
+ },
+ {
+   "id": 652,
+   "genre": "Children's",
+   "title": "Somewhere Between",
+   "author": "Wanids",
+   "publisher": "Lauri",
+   "edition": 2
+ },
+ {
+   "id": 653,
+   "genre": "Science",
+   "title": "Friends with Benefits",
+   "author": "Gordan",
+   "publisher": "Charity",
+   "edition": 2
+ },
+ {
+   "id": 654,
+   "genre": "Health",
+   "title": "Salaam Namaste",
+   "author": "Effie",
+   "publisher": "Chrysler",
+   "edition": 1
+ },
+ {
+   "id": 655,
+   "genre": "Mystery",
+   "title": "Stand and Deliver",
+   "author": "Waly",
+   "publisher": "Reidar",
+   "edition": 4
+ },
+ {
+   "id": 656,
+   "genre": "Math",
+   "title": "12 Storeys (Shier lou)",
+   "author": "Annette",
+   "publisher": "Marty",
+   "edition": 1
+ },
+ {
+   "id": 657,
+   "genre": "Cookbooks",
+   "title": "Downloaded",
+   "author": "Prince",
+   "publisher": "Kesley",
+   "edition": 3
+ },
+ {
+   "id": 658,
+   "genre": "Cookbooks",
+   "title": "First Day of the Rest of Your Life, The (Le premier jour du reste de ta vie)",
+   "author": "Colver",
+   "publisher": "Estell",
+   "edition": 4
+ },
+ {
+   "id": 659,
+   "genre": "Action and Adventure",
+   "title": "Go Figure (Va savoir)",
+   "author": "Hussein",
+   "publisher": "Ginevra",
+   "edition": 5
+ },
+ {
+   "id": 660,
+   "genre": "horror",
+   "title": "Superdad",
+   "author": "Merry",
+   "publisher": "Alix",
+   "edition": 1
+ },
+ {
+   "id": 661,
+   "genre": " Spirituality & New Age",
+   "title": "Voyage to the End of the Universe (Ikarie XB 1)",
+   "author": "Joelle",
+   "publisher": "Dotty",
+   "edition": 4
+ },
+ {
+   "id": 662,
+   "genre": "Anthology",
+   "title": "The Brain",
+   "author": "Gabbie",
+   "publisher": "Joeann",
+   "edition": 1
+ },
+ {
+   "id": 663,
+   "genre": "Cookbooks",
+   "title": "Love's Kitchen",
+   "author": "Ingeberg",
+   "publisher": "Galvan",
+   "edition": 5
+ },
+ {
+   "id": 664,
+   "genre": "academic",
+   "title": "Free the Nipple",
+   "author": "Hertha",
+   "publisher": "Georgeanne",
+   "edition": 3
+ },
+ {
+   "id": 665,
+   "genre": "Children's",
+   "title": "What Matters Most",
+   "author": "Elizabeth",
+   "publisher": "Antonie",
+   "edition": 5
+ },
+ {
+   "id": 666,
+   "genre": "Science",
+   "title": "Candidate, The (Kandidaten)",
+   "author": "Sam",
+   "publisher": "Saunderson",
+   "edition": 5
+ },
+ {
+   "id": 667,
+   "genre": "Science fiction",
+   "title": "Sheep Eaters (Lampaansyöjät)",
+   "author": "Bibby",
+   "publisher": "Marsha",
+   "edition": 3
+ },
+ {
+   "id": 668,
+   "genre": "Romance",
+   "title": "Critters 4",
+   "author": "Agace",
+   "publisher": "Avictor",
+   "edition": 1
+ },
+ {
+   "id": 669,
+   "genre": "Children's",
+   "title": "Goya in Bordeaux (Goya en Burdeos)",
+   "author": "Wilmar",
+   "publisher": "Giorgia",
+   "edition": 3
+ },
+ {
+   "id": 670,
+   "genre": "Mystery",
+   "title": "Slam Dunk Ernest",
+   "author": "Letisha",
+   "publisher": "Julia",
+   "edition": 2
+ },
+ {
+   "id": 671,
+   "genre": "Diaries",
+   "title": "Where Are My Children?",
+   "author": "Sallie",
+   "publisher": "Alexis",
+   "edition": 4
+ },
+ {
+   "id": 672,
+   "genre": "Action and Adventure",
+   "title": "Psycho III",
+   "author": "Nerissa",
+   "publisher": "Jude",
+   "edition": 1
+ },
+ {
+   "id": 673,
+   "genre": "Cookbooks",
+   "title": "Alone in the Dark II",
+   "author": "Amerigo",
+   "publisher": "Antonietta",
+   "edition": 2
+ },
+ {
+   "id": 674,
+   "genre": "Math",
+   "title": "It's My Mother's Birthday Today",
+   "author": "Jenni",
+   "publisher": "Giulia",
+   "edition": 5
+ },
+ {
+   "id": 675,
+   "genre": "Art",
+   "title": "Largo Winch (Heir Apparent: Largo Winch, The)",
+   "author": "Monica",
+   "publisher": "Vincent",
+   "edition": 3
+ },
+ {
+   "id": 676,
+   "genre": " Spirituality & New Age",
+   "title": "Love in Another Language (Baska Dilde Ask)",
+   "author": "Marys",
+   "publisher": "Bradford",
+   "edition": 4
+ },
+ {
+   "id": 677,
+   "genre": "Science fiction",
+   "title": "The Living Magoroku",
+   "author": "Terra",
+   "publisher": "Shirley",
+   "edition": 3
+ },
+ {
+   "id": 678,
+   "genre": "Guide",
+   "title": "Last Command, The",
+   "author": "Katy",
+   "publisher": "Gracia",
+   "edition": 2
+ },
+ {
+   "id": 679,
+   "genre": "Romance",
+   "title": "Phantom Stagecoach, The",
+   "author": "Towney",
+   "publisher": "Verena",
+   "edition": 1
+ },
+ {
+   "id": 680,
+   "genre": "Art",
+   "title": "Yellow Earth (Huang tu di)",
+   "author": "Hetty",
+   "publisher": "Zelma",
+   "edition": 3
+ },
+ {
+   "id": 681,
+   "genre": "Self help",
+   "title": "Case of the Grinning Cat, The (Chats perchés)",
+   "author": "Asia",
+   "publisher": "Karna",
+   "edition": 3
+ },
+ {
+   "id": 682,
+   "genre": "Travel",
+   "title": "Hardcore",
+   "author": "Nessie",
+   "publisher": "Perry",
+   "edition": 1
+ },
+ {
+   "id": 683,
+   "genre": "Science",
+   "title": "Miral",
+   "author": "Demetre",
+   "publisher": "Brunhilda",
+   "edition": 2
+ },
+ {
+   "id": 684,
+   "genre": "Health",
+   "title": "Longest Yard, The",
+   "author": "Lev",
+   "publisher": "Madeline",
+   "edition": 2
+ },
+ {
+   "id": 685,
+   "genre": "Horror",
+   "title": "Effect of Gamma Rays on Man-in-the-Moon Marigolds, The",
+   "author": "Ody",
+   "publisher": "Kamila",
+   "edition": 1
+ },
+ {
+   "id": 686,
+   "genre": "Religion",
+   "title": "Harvest (Stadt Land Fluss)",
+   "author": "Bronny",
+   "publisher": "Eugine",
+   "edition": 2
+ },
+ {
+   "id": 687,
+   "genre": "Math",
+   "title": "28 Up",
+   "author": "Emili",
+   "publisher": "Rodrick",
+   "edition": 4
+ },
+ {
+   "id": 688,
+   "genre": "academic",
+   "title": "Red Sorghum (Hong gao liang)",
+   "author": "Malchy",
+   "publisher": "Jamey",
+   "edition": 4
+ },
+ {
+   "id": 689,
+   "genre": "Encyclopedias",
+   "title": "Wonderful and Loved by All (Underbar och älskad av alla)",
+   "author": "Cicily",
+   "publisher": "Braden",
+   "edition": 3
+ },
+ {
+   "id": 690,
+   "genre": "Guide",
+   "title": "Banklady",
+   "author": "Lenora",
+   "publisher": "Colet",
+   "edition": 5
+ },
+ {
+   "id": 691,
+   "genre": "Horror",
+   "title": "Dr. Jekyll and Mr. Hyde",
+   "author": "Sibby",
+   "publisher": "Baldwin",
+   "edition": 5
+ },
+ {
+   "id": 692,
+   "genre": "Science fiction",
+   "title": "Good German, The",
+   "author": "Karoline",
+   "publisher": "Shannen",
+   "edition": 1
+ },
+ {
+   "id": 693,
+   "genre": "Anthology",
+   "title": "Clear and Present Danger",
+   "author": "Cyndy",
+   "publisher": "Salvidor",
+   "edition": 1
+ },
+ {
+   "id": 694,
+   "genre": "Romance",
+   "title": "In the House",
+   "author": "Laurence",
+   "publisher": "Belvia",
+   "edition": 4
+ },
+ {
+   "id": 695,
+   "genre": "Mystery",
+   "title": "Fred: The Movie",
+   "author": "Carolan",
+   "publisher": "Cheston",
+   "edition": 2
+ },
+ {
+   "id": 696,
+   "genre": "Travel",
+   "title": "Cowboy Bebop",
+   "author": "Golda",
+   "publisher": "Ursulina",
+   "edition": 1
+ },
+ {
+   "id": 697,
+   "genre": "Science fiction",
+   "title": "I'm Here",
+   "author": "Man",
+   "publisher": "Sancho",
+   "edition": 3
+ },
+ {
+   "id": 698,
+   "genre": "Science",
+   "title": "Bright Eyes",
+   "author": "Nicole",
+   "publisher": "Edgar",
+   "edition": 5
+ },
+ {
+   "id": 699,
+   "genre": "Dictionaries",
+   "title": "FernGully 2: The Magical Rescue",
+   "author": "Sullivan",
+   "publisher": "Bunnie",
+   "edition": 5
+ },
+ {
+   "id": 700,
+   "genre": "Encyclopedias",
+   "title": "Dad",
+   "author": "Vivien",
+   "publisher": "Raynor",
+   "edition": 2
+ },
+ {
+   "id": 701,
+   "genre": "Math",
+   "title": "Unspeakable Act, The",
+   "author": "Cyb",
+   "publisher": "Paola",
+   "edition": 1
+ },
+ {
+   "id": 702,
+   "genre": "Dictionaries",
+   "title": "Okie Noodling",
+   "author": "Harold",
+   "publisher": "Tabina",
+   "edition": 5
+ },
+ {
+   "id": 703,
+   "genre": "Comics",
+   "title": "Hotel",
+   "author": "Benetta",
+   "publisher": "Timotheus",
+   "edition": 2
+ },
+ {
+   "id": 704,
+   "genre": "Cookbooks",
+   "title": "Abouna",
+   "author": "Ruth",
+   "publisher": "Charyl",
+   "edition": 2
+ },
+ {
+   "id": 705,
+   "genre": "Mystery",
+   "title": "Heart and Souls",
+   "author": "Timmy",
+   "publisher": "Kevan",
+   "edition": 4
+ },
+ {
+   "id": 706,
+   "genre": "Comics",
+   "title": "If You Are the One",
+   "author": "Janis",
+   "publisher": "Roger",
+   "edition": 5
+ },
+ {
+   "id": 707,
+   "genre": "Cookbooks",
+   "title": "The Bride Wore Red",
+   "author": "Irvin",
+   "publisher": "Laverne",
+   "edition": 3
+ },
+ {
+   "id": 708,
+   "genre": "Anthology",
+   "title": "Maria",
+   "author": "Bronny",
+   "publisher": "Bjorn",
+   "edition": 5
+ },
+ {
+   "id": 709,
+   "genre": "horror",
+   "title": "Emerald Cowboy",
+   "author": "Orelle",
+   "publisher": "Correy",
+   "edition": 1
+ },
+ {
+   "id": 710,
+   "genre": "Action and Adventure",
+   "title": "Gallipoli",
+   "author": "Melodie",
+   "publisher": "Giacobo",
+   "edition": 3
+ },
+ {
+   "id": 711,
+   "genre": "Satire",
+   "title": "Amateur, The",
+   "author": "Quintin",
+   "publisher": "Noelani",
+   "edition": 5
+ },
+ {
+   "id": 712,
+   "genre": "Art",
+   "title": "Cruel Story of Youth (Seishun zankoku monogatari)",
+   "author": "Carolyn",
+   "publisher": "Justinn",
+   "edition": 5
+ },
+ {
+   "id": 713,
+   "genre": "Dictionaries",
+   "title": "Abbott and Costello Meet Captain Kidd",
+   "author": "Land",
+   "publisher": "Darbee",
+   "edition": 3
+ },
+ {
+   "id": 714,
+   "genre": " Spirituality & New Age",
+   "title": "Witless Protection",
+   "author": "Ethelbert",
+   "publisher": "Chen",
+   "edition": 5
+ },
+ {
+   "id": 715,
+   "genre": "Children's",
+   "title": "Siblings",
+   "author": "Angele",
+   "publisher": "Tildy",
+   "edition": 3
+ },
+ {
+   "id": 716,
+   "genre": "Romance",
+   "title": "Elite Squad: The Enemy Within (Tropa de Elite 2 - O Inimigo Agora É Outro)",
+   "author": "Holly",
+   "publisher": "Lorrie",
+   "edition": 3
+ },
+ {
+   "id": 717,
+   "genre": "academic",
+   "title": "Kidnapping of the President, The",
+   "author": "Yankee",
+   "publisher": "Rochella",
+   "edition": 3
+ },
+ {
+   "id": 718,
+   "genre": "Journals",
+   "title": "Love Finds Andy Hardy",
+   "author": "Anthia",
+   "publisher": "Nevil",
+   "edition": 5
+ },
+ {
+   "id": 719,
+   "genre": "Science",
+   "title": "Bambou",
+   "author": "Lynea",
+   "publisher": "Emyle",
+   "edition": 5
+ },
+ {
+   "id": 720,
+   "genre": "Action and Adventure",
+   "title": "Skeleton Key, The",
+   "author": "Glennie",
+   "publisher": "Giusto",
+   "edition": 3
+ },
+ {
+   "id": 721,
+   "genre": "Anthology",
+   "title": "Spring in a Small Town (Xiao cheng zhi chun)",
+   "author": "Irving",
+   "publisher": "Meier",
+   "edition": 4
+ },
+ {
+   "id": 722,
+   "genre": "Cookbooks",
+   "title": "All About My Mother (Todo sobre mi madre)",
+   "author": "Agnola",
+   "publisher": "Jen",
+   "edition": 4
+ },
+ {
+   "id": 723,
+   "genre": "Romance",
+   "title": "En på miljonen",
+   "author": "Gustaf",
+   "publisher": "Buddy",
+   "edition": 2
+ },
+ {
+   "id": 724,
+   "genre": " Spirituality & New Age",
+   "title": "Horsemen",
+   "author": "Debora",
+   "publisher": "Amity",
+   "edition": 2
+ },
+ {
+   "id": 725,
+   "genre": "Drama",
+   "title": "Bonnie and Clyde",
+   "author": "Harmonia",
+   "publisher": "Danni",
+   "edition": 2
+ },
+ {
+   "id": 726,
+   "genre": "Health",
+   "title": "Man Who Knew Too Much, The",
+   "author": "Lurleen",
+   "publisher": "Corina",
+   "edition": 2
+ },
+ {
+   "id": 727,
+   "genre": "Comics",
+   "title": "Roadkill (a.k.a. Roadkill: Move or Die)",
+   "author": "Ebeneser",
+   "publisher": "Kandy",
+   "edition": 2
+ },
+ {
+   "id": 728,
+   "genre": "Comics",
+   "title": "Just Like a Woman",
+   "author": "Cindee",
+   "publisher": "Blake",
+   "edition": 4
+ },
+ {
+   "id": 729,
+   "genre": "Art",
+   "title": "Village of the Giants",
+   "author": "Wendall",
+   "publisher": "Janka",
+   "edition": 5
+ },
+ {
+   "id": 730,
+   "genre": "Satire",
+   "title": "Chak De India!",
+   "author": "Donn",
+   "publisher": "Shae",
+   "edition": 1
+ },
+ {
+   "id": 731,
+   "genre": "Science",
+   "title": "Bound by Honor (a.k.a. Blood In, Blood Out)",
+   "author": "Eirena",
+   "publisher": "Kristos",
+   "edition": 4
+ },
+ {
+   "id": 732,
+   "genre": "Poetry",
+   "title": "Blubberella",
+   "author": "Bordie",
+   "publisher": "Morley",
+   "edition": 3
+ },
+ {
+   "id": 733,
+   "genre": "Mystery",
+   "title": "Flight from Death: The Quest for Immortality",
+   "author": "Ninnette",
+   "publisher": "Enrique",
+   "edition": 4
+ },
+ {
+   "id": 734,
+   "genre": "Dictionaries",
+   "title": "Harry Brown",
+   "author": "Caleb",
+   "publisher": "Cleon",
+   "edition": 2
+ },
+ {
+   "id": 735,
+   "genre": "Encyclopedias",
+   "title": "Tale of Zatoichi Continues, The (Zoku Zatôichi monogatari) (Zatôichi 2)",
+   "author": "Wait",
+   "publisher": "Amandie",
+   "edition": 5
+ },
+ {
+   "id": 736,
+   "genre": "Health",
+   "title": "Can't Help Singing",
+   "author": "Dyanne",
+   "publisher": "Cybill",
+   "edition": 3
+ },
+ {
+   "id": 737,
+   "genre": "Comics",
+   "title": "Wizard, The",
+   "author": "Glenda",
+   "publisher": "Garald",
+   "edition": 3
+ },
+ {
+   "id": 738,
+   "genre": " Spirituality & New Age",
+   "title": "Rings on Her Fingers",
+   "author": "Starlin",
+   "publisher": "Elizabeth",
+   "edition": 2
+ },
+ {
+   "id": 739,
+   "genre": "Satire",
+   "title": "Bullet in the Head",
+   "author": "Cinderella",
+   "publisher": "Jefferey",
+   "edition": 2
+ },
+ {
+   "id": 740,
+   "genre": "Religion",
+   "title": "House on Telegraph Hill, The",
+   "author": "Janeen",
+   "publisher": "Giacinta",
+   "edition": 5
+ },
+ {
+   "id": 741,
+   "genre": "Satire",
+   "title": "Stay",
+   "author": "Davon",
+   "publisher": "Fredric",
+   "edition": 2
+ },
+ {
+   "id": 742,
+   "genre": "Comics",
+   "title": "Boys",
+   "author": "Ludvig",
+   "publisher": "Garvin",
+   "edition": 1
+ },
+ {
+   "id": 743,
+   "genre": "Math",
+   "title": "Tasting Menu",
+   "author": "Colin",
+   "publisher": "Fredrick",
+   "edition": 2
+ },
+ {
+   "id": 744,
+   "genre": "Anthology",
+   "title": "Brother from Another Planet, The",
+   "author": "Renato",
+   "publisher": "Sarene",
+   "edition": 1
+ },
+ {
+   "id": 745,
+   "genre": "Cookbooks",
+   "title": "Madame Butterfly",
+   "author": "Marsiella",
+   "publisher": "Shayna",
+   "edition": 3
+ },
+ {
+   "id": 746,
+   "genre": "Poetry",
+   "title": "Dragon Lord (a.k.a. Dragon Strike) (Long Xiao Ye)",
+   "author": "Mag",
+   "publisher": "Reinald",
+   "edition": 4
+ },
+ {
+   "id": 747,
+   "genre": "Diaries",
+   "title": "Wicked City (Yôjû toshi)",
+   "author": "Janith",
+   "publisher": "Giana",
+   "edition": 1
+ },
+ {
+   "id": 748,
+   "genre": " Spirituality & New Age",
+   "title": "Triangle (Tie saam gok)",
+   "author": "Redd",
+   "publisher": "Krystle",
+   "edition": 5
+ },
+ {
+   "id": 749,
+   "genre": " Spirituality & New Age",
+   "title": "Breath (Soom)",
+   "author": "Meryl",
+   "publisher": "Sheryl",
+   "edition": 2
+ },
+ {
+   "id": 750,
+   "genre": "Satire",
+   "title": "Fûke, De",
+   "author": "Isabeau",
+   "publisher": "Eben",
+   "edition": 5
+ },
+ {
+   "id": 751,
+   "genre": "Romance",
+   "title": "Flyboys",
+   "author": "Forrest",
+   "publisher": "Kissie",
+   "edition": 5
+ },
+ {
+   "id": 752,
+   "genre": "Math",
+   "title": "That Uncertain Feeling",
+   "author": "Theodora",
+   "publisher": "Bobbie",
+   "edition": 2
+ },
+ {
+   "id": 753,
+   "genre": "Guide",
+   "title": "Loputon Gehennan liekki",
+   "author": "Koren",
+   "publisher": "Rozalin",
+   "edition": 4
+ },
+ {
+   "id": 754,
+   "genre": "Drama",
+   "title": "Betrayal, The (Nerakhoon)",
+   "author": "Neely",
+   "publisher": "Cointon",
+   "edition": 5
+ },
+ {
+   "id": 755,
+   "genre": "academic",
+   "title": "Whales of August, The",
+   "author": "Waly",
+   "publisher": "Arleyne",
+   "edition": 3
+ },
+ {
+   "id": 756,
+   "genre": "academic",
+   "title": "Infamous",
+   "author": "Bailie",
+   "publisher": "Manon",
+   "edition": 2
+ },
+ {
+   "id": 757,
+   "genre": "Mystery",
+   "title": "Show Me Love (Fucking Åmål)",
+   "author": "Garrek",
+   "publisher": "Nissie",
+   "edition": 2
+ },
+ {
+   "id": 758,
+   "genre": "Religion",
+   "title": "Grown Up Movie Star",
+   "author": "Winslow",
+   "publisher": "Rosemaria",
+   "edition": 2
+ },
+ {
+   "id": 759,
+   "genre": "Encyclopedias",
+   "title": "Let Me In",
+   "author": "Mellisent",
+   "publisher": "Mureil",
+   "edition": 2
+ },
+ {
+   "id": 760,
+   "genre": "horror",
+   "title": "Creepshow",
+   "author": "Eda",
+   "publisher": "Danita",
+   "edition": 5
+ },
+ {
+   "id": 761,
+   "genre": "Encyclopedias",
+   "title": "Laurence Anyways",
+   "author": "Justis",
+   "publisher": "Even",
+   "edition": 5
+ },
+ {
+   "id": 762,
+   "genre": "Encyclopedias",
+   "title": "CQ",
+   "author": "Junie",
+   "publisher": "Ortensia",
+   "edition": 3
+ },
+ {
+   "id": 763,
+   "genre": "Satire",
+   "title": "6th Day, The",
+   "author": "Margo",
+   "publisher": "Fredrick",
+   "edition": 3
+ },
+ {
+   "id": 764,
+   "genre": "horror",
+   "title": "Get Smart",
+   "author": "Clementia",
+   "publisher": "Vivia",
+   "edition": 3
+ },
+ {
+   "id": 765,
+   "genre": "Science",
+   "title": "Interview, The",
+   "author": "Hildegaard",
+   "publisher": "Hayden",
+   "edition": 4
+ },
+ {
+   "id": 766,
+   "genre": "Romance",
+   "title": "Glass House, The",
+   "author": "Kelcey",
+   "publisher": "Terry",
+   "edition": 2
+ },
+ {
+   "id": 767,
+   "genre": "biography",
+   "title": "Barocco",
+   "author": "Jdavie",
+   "publisher": "Maximilian",
+   "edition": 4
+ },
+ {
+   "id": 768,
+   "genre": "Religion",
+   "title": "Casting By",
+   "author": "Caryn",
+   "publisher": "Ainslie",
+   "edition": 4
+ },
+ {
+   "id": 769,
+   "genre": "Cookbooks",
+   "title": "Tom Sawyer",
+   "author": "Dore",
+   "publisher": "Dorelle",
+   "edition": 5
+ },
+ {
+   "id": 770,
+   "genre": "Children's",
+   "title": "Rosewater",
+   "author": "Emile",
+   "publisher": "Bobby",
+   "edition": 3
+ },
+ {
+   "id": 771,
+   "genre": "Journals",
+   "title": "Macario",
+   "author": "Delcina",
+   "publisher": "Linn",
+   "edition": 5
+ },
+ {
+   "id": 772,
+   "genre": "Health",
+   "title": "Åsa-Nisse - Wälkom to Knohult",
+   "author": "Orin",
+   "publisher": "Prissie",
+   "edition": 1
+ },
+ {
+   "id": 773,
+   "genre": "Cookbooks",
+   "title": "Marty",
+   "author": "Kikelia",
+   "publisher": "Jesus",
+   "edition": 1
+ },
+ {
+   "id": 774,
+   "genre": "academic",
+   "title": "Bombay Talkie",
+   "author": "Clemence",
+   "publisher": "Jamal",
+   "edition": 3
+ },
+ {
+   "id": 775,
+   "genre": "Encyclopedias",
+   "title": "Corridor, The",
+   "author": "Dotti",
+   "publisher": "Genny",
+   "edition": 4
+ },
+ {
+   "id": 776,
+   "genre": "Drama",
+   "title": "Nick Carter, Master Detective",
+   "author": "Abba",
+   "publisher": "Kerry",
+   "edition": 4
+ },
+ {
+   "id": 777,
+   "genre": "Dictionaries",
+   "title": "Love Bug, The",
+   "author": "Dani",
+   "publisher": "Augustin",
+   "edition": 3
+ },
+ {
+   "id": 778,
+   "genre": "Guide",
+   "title": "Hellbound: Hellraiser II",
+   "author": "Gael",
+   "publisher": "Valli",
+   "edition": 5
+ },
+ {
+   "id": 779,
+   "genre": "Journals",
+   "title": "Herbie Rides Again",
+   "author": "Gusti",
+   "publisher": "Curr",
+   "edition": 1
+ },
+ {
+   "id": 780,
+   "genre": "horror",
+   "title": "Sisters of the Gion (Gion no shimai)",
+   "author": "Sully",
+   "publisher": "Beau",
+   "edition": 5
+ },
+ {
+   "id": 781,
+   "genre": "Religion",
+   "title": "Adventures of Tintin, The",
+   "author": "Raynor",
+   "publisher": "Jessalyn",
+   "edition": 4
+ },
+ {
+   "id": 782,
+   "genre": "Self help",
+   "title": "Run Lola Run (Lola rennt)",
+   "author": "Carrol",
+   "publisher": "Susan",
+   "edition": 4
+ },
+ {
+   "id": 783,
+   "genre": "Diaries",
+   "title": "Autumn Sonata (Höstsonaten)",
+   "author": "Vinni",
+   "publisher": "Anatol",
+   "edition": 2
+ },
+ {
+   "id": 784,
+   "genre": "Action and Adventure",
+   "title": "The Legend of Sarila",
+   "author": "Risa",
+   "publisher": "Peria",
+   "edition": 4
+ },
+ {
+   "id": 785,
+   "genre": "Action and Adventure",
+   "title": "Baby-Sitters Club, The",
+   "author": "Liv",
+   "publisher": "Reggie",
+   "edition": 3
+ },
+ {
+   "id": 786,
+   "genre": "Dictionaries",
+   "title": "No Time for Love",
+   "author": "Kamila",
+   "publisher": "Hort",
+   "edition": 3
+ },
+ {
+   "id": 787,
+   "genre": "Romance",
+   "title": "Seed",
+   "author": "Winny",
+   "publisher": "Faye",
+   "edition": 4
+ },
+ {
+   "id": 788,
+   "genre": "Mystery",
+   "title": "Johnny Cash at Folsom Prison",
+   "author": "Nerissa",
+   "publisher": "Zara",
+   "edition": 1
+ },
+ {
+   "id": 789,
+   "genre": "biography",
+   "title": "Barnacle Bill",
+   "author": "Chrissy",
+   "publisher": "Rasia",
+   "edition": 2
+ },
+ {
+   "id": 790,
+   "genre": "Anthology",
+   "title": "Little Miss Sunshine",
+   "author": "Dione",
+   "publisher": "Carline",
+   "edition": 2
+ },
+ {
+   "id": 791,
+   "genre": "Poetry",
+   "title": "Return to the Blue Lagoon",
+   "author": "Newton",
+   "publisher": "Hillary",
+   "edition": 3
+ },
+ {
+   "id": 792,
+   "genre": "Diaries",
+   "title": "Bay of Angels (La baie des anges)",
+   "author": "Newton",
+   "publisher": "Byrle",
+   "edition": 4
+ },
+ {
+   "id": 793,
+   "genre": "Diaries",
+   "title": "Picnic on the Grass (Le déjeuner sur l'herbe)",
+   "author": "Linus",
+   "publisher": "Eleni",
+   "edition": 3
+ },
+ {
+   "id": 794,
+   "genre": "academic",
+   "title": "Girl Next Door, The",
+   "author": "Ashley",
+   "publisher": "Granthem",
+   "edition": 5
+ },
+ {
+   "id": 795,
+   "genre": "Children's",
+   "title": "Battles Without Honor & Humanity (Jingi naki tatakai)",
+   "author": "Vick",
+   "publisher": "Orville",
+   "edition": 5
+ },
+ {
+   "id": 796,
+   "genre": "Mystery",
+   "title": "Longford",
+   "author": "Klara",
+   "publisher": "Waylin",
+   "edition": 3
+ },
+ {
+   "id": 797,
+   "genre": "horror",
+   "title": "Calamity Jane",
+   "author": "Randa",
+   "publisher": "Guthrey",
+   "edition": 3
+ },
+ {
+   "id": 798,
+   "genre": "Drama",
+   "title": "Michael",
+   "author": "Zandra",
+   "publisher": "Lisha",
+   "edition": 3
+ },
+ {
+   "id": 799,
+   "genre": "Comics",
+   "title": "Men, Women & Children",
+   "author": "Willie",
+   "publisher": "Suzie",
+   "edition": 1
+ },
+ {
+   "id": 800,
+   "genre": "Mystery",
+   "title": "Bar Girls",
+   "author": "Padriac",
+   "publisher": "Ludwig",
+   "edition": 5
+ },
+ {
+   "id": 801,
+   "genre": "Diaries",
+   "title": "Set It Off",
+   "author": "Lauri",
+   "publisher": "Martelle",
+   "edition": 1
+ },
+ {
+   "id": 802,
+   "genre": "Action and Adventure",
+   "title": "Black Christmas",
+   "author": "Miguelita",
+   "publisher": "Tracy",
+   "edition": 1
+ },
+ {
+   "id": 803,
+   "genre": "Cookbooks",
+   "title": "Silent World, The (Le monde du silence)",
+   "author": "Dionysus",
+   "publisher": "Carr",
+   "edition": 1
+ },
+ {
+   "id": 804,
+   "genre": "Science fiction",
+   "title": "Six Ways to Sunday",
+   "author": "Madelene",
+   "publisher": "Thorsten",
+   "edition": 1
+ },
+ {
+   "id": 805,
+   "genre": "Self help",
+   "title": "Outside the Law",
+   "author": "Celesta",
+   "publisher": "Valry",
+   "edition": 2
+ },
+ {
+   "id": 806,
+   "genre": "Science fiction",
+   "title": "GhostWatcher",
+   "author": "Hagan",
+   "publisher": "Matteo",
+   "edition": 4
+ },
+ {
+   "id": 807,
+   "genre": "Diaries",
+   "title": "Happy New Year",
+   "author": "Kessiah",
+   "publisher": "Meredith",
+   "edition": 2
+ },
+ {
+   "id": 808,
+   "genre": "Action and Adventure",
+   "title": "Car Wash",
+   "author": "Susette",
+   "publisher": "Skyler",
+   "edition": 2
+ },
+ {
+   "id": 809,
+   "genre": "Encyclopedias",
+   "title": "Darling",
+   "author": "Marigold",
+   "publisher": "Marisa",
+   "edition": 4
+ },
+ {
+   "id": 810,
+   "genre": "Poetry",
+   "title": "Pianomania",
+   "author": "Ezequiel",
+   "publisher": "Yoko",
+   "edition": 1
+ },
+ {
+   "id": 811,
+   "genre": "Science",
+   "title": "Men in War",
+   "author": "Jim",
+   "publisher": "Bengt",
+   "edition": 2
+ },
+ {
+   "id": 812,
+   "genre": "Comics",
+   "title": "Tales of Terror (Kaidan Shin Mimibukuro)",
+   "author": "Hedy",
+   "publisher": "Avrom",
+   "edition": 4
+ },
+ {
+   "id": 813,
+   "genre": "Children's",
+   "title": "Machuca",
+   "author": "Hedvige",
+   "publisher": "Aindrea",
+   "edition": 5
+ },
+ {
+   "id": 814,
+   "genre": "Comics",
+   "title": "Enemies: A Love Story",
+   "author": "Abba",
+   "publisher": "Ingelbert",
+   "edition": 1
+ },
+ {
+   "id": 815,
+   "genre": "Dictionaries",
+   "title": "Jesus Camp",
+   "author": "Darbie",
+   "publisher": "Lina",
+   "edition": 1
+ },
+ {
+   "id": 816,
+   "genre": "Cookbooks",
+   "title": "Skulls, The",
+   "author": "Zsa zsa",
+   "publisher": "Trudey",
+   "edition": 3
+ },
+ {
+   "id": 817,
+   "genre": "Action and Adventure",
+   "title": "Highlander: Endgame (Highlander IV)",
+   "author": "Bee",
+   "publisher": "Clemmie",
+   "edition": 5
+ },
+ {
+   "id": 818,
+   "genre": "Anthology",
+   "title": "Winning Streak",
+   "author": "Domingo",
+   "publisher": "Spencer",
+   "edition": 4
+ },
+ {
+   "id": 819,
+   "genre": "Cookbooks",
+   "title": "Bad Girls (Biches, Les)",
+   "author": "Eleonore",
+   "publisher": "Gradey",
+   "edition": 5
+ },
+ {
+   "id": 820,
+   "genre": "Religion",
+   "title": "Island at War",
+   "author": "Antony",
+   "publisher": "Modestine",
+   "edition": 5
+ },
+ {
+   "id": 821,
+   "genre": "Math",
+   "title": "Patriot, The",
+   "author": "Isabeau",
+   "publisher": "Koral",
+   "edition": 3
+ },
+ {
+   "id": 822,
+   "genre": "Travel",
+   "title": "The Night Evelyn Came Out of the Grave",
+   "author": "Gregory",
+   "publisher": "Eduardo",
+   "edition": 1
+ },
+ {
+   "id": 823,
+   "genre": "Art",
+   "title": "Woyzeck",
+   "author": "Roobbie",
+   "publisher": "Matthaeus",
+   "edition": 1
+ },
+ {
+   "id": 824,
+   "genre": "Comics",
+   "title": "Uptown Girls",
+   "author": "Caldwell",
+   "publisher": "Lammond",
+   "edition": 3
+ },
+ {
+   "id": 825,
+   "genre": "Journals",
+   "title": "Love in the Afternoon",
+   "author": "Calla",
+   "publisher": "Derek",
+   "edition": 1
+ },
+ {
+   "id": 826,
+   "genre": "Guide",
+   "title": "Stereo",
+   "author": "Lindon",
+   "publisher": "Wandie",
+   "edition": 3
+ },
+ {
+   "id": 827,
+   "genre": "Religion",
+   "title": "A Summer in La Goulette",
+   "author": "Lilllie",
+   "publisher": "Kasey",
+   "edition": 4
+ },
+ {
+   "id": 828,
+   "genre": "Self help",
+   "title": "Siberia",
+   "author": "Nathanial",
+   "publisher": "Wallace",
+   "edition": 2
+ },
+ {
+   "id": 829,
+   "genre": "Comics",
+   "title": "The Boy Next Door",
+   "author": "Myranda",
+   "publisher": "Netti",
+   "edition": 1
+ },
+ {
+   "id": 830,
+   "genre": "Anthology",
+   "title": "Romanzo Criminale",
+   "author": "Hephzibah",
+   "publisher": "Rivy",
+   "edition": 1
+ },
+ {
+   "id": 831,
+   "genre": "Anthology",
+   "title": "Good Night, The",
+   "author": "Hewie",
+   "publisher": "Rivy",
+   "edition": 5
+ },
+ {
+   "id": 832,
+   "genre": "Horror",
+   "title": "Friends with Kids",
+   "author": "Elsy",
+   "publisher": "Alexandros",
+   "edition": 1
+ },
+ {
+   "id": 833,
+   "genre": "Encyclopedias",
+   "title": "Arc",
+   "author": "Elwin",
+   "publisher": "Brooks",
+   "edition": 5
+ },
+ {
+   "id": 834,
+   "genre": "Poetry",
+   "title": "Student Prince in Old Heidelberg, The",
+   "author": "Langston",
+   "publisher": "Josi",
+   "edition": 5
+ },
+ {
+   "id": 835,
+   "genre": " Spirituality & New Age",
+   "title": "Criss Cross",
+   "author": "Stacey",
+   "publisher": "Shannon",
+   "edition": 4
+ },
+ {
+   "id": 836,
+   "genre": "History",
+   "title": "Cantante, El",
+   "author": "Jehu",
+   "publisher": "Maurizio",
+   "edition": 2
+ },
+ {
+   "id": 837,
+   "genre": " Spirituality & New Age",
+   "title": "Witness",
+   "author": "Thorn",
+   "publisher": "Cale",
+   "edition": 1
+ },
+ {
+   "id": 838,
+   "genre": "Cookbooks",
+   "title": "Special Mission Lady Chaplin",
+   "author": "Vivyanne",
+   "publisher": "Iolanthe",
+   "edition": 5
+ },
+ {
+   "id": 839,
+   "genre": "Children's",
+   "title": "Johnny Angel",
+   "author": "Nadeen",
+   "publisher": "Karlotte",
+   "edition": 2
+ },
+ {
+   "id": 840,
+   "genre": "Dictionaries",
+   "title": "Suspicion",
+   "author": "Corri",
+   "publisher": "Sutton",
+   "edition": 3
+ },
+ {
+   "id": 841,
+   "genre": "horror",
+   "title": "French Fried Vacation (Les Bronzés)",
+   "author": "Walton",
+   "publisher": "Elberta",
+   "edition": 2
+ },
+ {
+   "id": 842,
+   "genre": " Spirituality & New Age",
+   "title": "Blood: The Last Vampire",
+   "author": "Ase",
+   "publisher": "Rhys",
+   "edition": 3
+ },
+ {
+   "id": 843,
+   "genre": "Art",
+   "title": "Side Effects",
+   "author": "Hercules",
+   "publisher": "Brinn",
+   "edition": 4
+ },
+ {
+   "id": 844,
+   "genre": "Horror",
+   "title": "2012: Supernova",
+   "author": "Lauretta",
+   "publisher": "Rorke",
+   "edition": 5
+ },
+ {
+   "id": 845,
+   "genre": "academic",
+   "title": "Fat Man and Little Boy",
+   "author": "Ramonda",
+   "publisher": "Willy",
+   "edition": 2
+ },
+ {
+   "id": 846,
+   "genre": "Self help",
+   "title": "Riding Alone for Thousands of Miles (Qian li zou dan qi)",
+   "author": "Urban",
+   "publisher": "Hollis",
+   "edition": 5
+ },
+ {
+   "id": 847,
+   "genre": "Poetry",
+   "title": "Love Lasts Three Years (L'amour dure trois ans)",
+   "author": "Eryn",
+   "publisher": "Ebba",
+   "edition": 5
+ },
+ {
+   "id": 848,
+   "genre": "Travel",
+   "title": "The Gunman",
+   "author": "Irving",
+   "publisher": "Claudell",
+   "edition": 5
+ },
+ {
+   "id": 849,
+   "genre": "History",
+   "title": "Orders to Kill",
+   "author": "Clifford",
+   "publisher": "Carita",
+   "edition": 5
+ },
+ {
+   "id": 850,
+   "genre": "horror",
+   "title": "Saddest Music in the World, The",
+   "author": "Lyndy",
+   "publisher": "Juana",
+   "edition": 3
+ },
+ {
+   "id": 851,
+   "genre": "Cookbooks",
+   "title": "Mom's Night Out",
+   "author": "Emelda",
+   "publisher": "Annis",
+   "edition": 3
+ },
+ {
+   "id": 852,
+   "genre": "Self help",
+   "title": "Groundstar Conspiracy, The",
+   "author": "Hunter",
+   "publisher": "Britni",
+   "edition": 4
+ },
+ {
+   "id": 853,
+   "genre": "Action and Adventure",
+   "title": "House of the Rising Sun",
+   "author": "Emelina",
+   "publisher": "Derrick",
+   "edition": 4
+ },
+ {
+   "id": 854,
+   "genre": "History",
+   "title": "Sex in Chains (Geschlecht in Fesseln)",
+   "author": "Shoshanna",
+   "publisher": "Tiphanie",
+   "edition": 4
+ },
+ {
+   "id": 855,
+   "genre": "Guide",
+   "title": "Seven Brides for Seven Brothers",
+   "author": "Guy",
+   "publisher": "Siobhan",
+   "edition": 5
+ },
+ {
+   "id": 856,
+   "genre": "Satire",
+   "title": "Girlfriend Experience, The",
+   "author": "Francklyn",
+   "publisher": "Udell",
+   "edition": 4
+ },
+ {
+   "id": 857,
+   "genre": "Action and Adventure",
+   "title": "Easy Street",
+   "author": "Woodrow",
+   "publisher": "Corenda",
+   "edition": 2
+ },
+ {
+   "id": 858,
+   "genre": "Self help",
+   "title": "Clockers",
+   "author": "Rafaelita",
+   "publisher": "Jacqueline",
+   "edition": 2
+ },
+ {
+   "id": 859,
+   "genre": "biography",
+   "title": "K.G. (Karate Girl)",
+   "author": "Cary",
+   "publisher": "Nissy",
+   "edition": 1
+ },
+ {
+   "id": 860,
+   "genre": "Satire",
+   "title": "Light of Day",
+   "author": "Shelbi",
+   "publisher": "Merwyn",
+   "edition": 3
+ },
+ {
+   "id": 861,
+   "genre": "Diaries",
+   "title": "Intimidation",
+   "author": "Sebastien",
+   "publisher": "Roxana",
+   "edition": 2
+ },
+ {
+   "id": 862,
+   "genre": "Encyclopedias",
+   "title": "Moment to Remember, A (Nae meorisokui jiwoogae)",
+   "author": "Rosa",
+   "publisher": "Marga",
+   "edition": 3
+ },
+ {
+   "id": 863,
+   "genre": "Science fiction",
+   "title": "Little Witches",
+   "author": "Harlene",
+   "publisher": "Jere",
+   "edition": 5
+ },
+ {
+   "id": 864,
+   "genre": "academic",
+   "title": "Anazapta (Black Plague)",
+   "author": "Mehetabel",
+   "publisher": "Jordan",
+   "edition": 4
+ },
+ {
+   "id": 865,
+   "genre": "Cookbooks",
+   "title": "Replacement Killers, The",
+   "author": "Yanaton",
+   "publisher": "Christos",
+   "edition": 2
+ },
+ {
+   "id": 866,
+   "genre": "Science fiction",
+   "title": "Spring Breakers",
+   "author": "Lorne",
+   "publisher": "Annamarie",
+   "edition": 3
+ },
+ {
+   "id": 867,
+   "genre": "Self help",
+   "title": "District, The (Nyócker!)",
+   "author": "Ruthanne",
+   "publisher": "Moise",
+   "edition": 5
+ },
+ {
+   "id": 868,
+   "genre": "Encyclopedias",
+   "title": "Traitor",
+   "author": "Fitzgerald",
+   "publisher": "Nydia",
+   "edition": 5
+ },
+ {
+   "id": 869,
+   "genre": "Mystery",
+   "title": "Simple Simon (I rymden finns inga känslor)",
+   "author": "Drona",
+   "publisher": "Kylila",
+   "edition": 2
+ },
+ {
+   "id": 870,
+   "genre": "Self help",
+   "title": "Liverpool",
+   "author": "Bobbee",
+   "publisher": "Noland",
+   "edition": 5
+ },
+ {
+   "id": 871,
+   "genre": "Travel",
+   "title": "Demon Seed",
+   "author": "Tam",
+   "publisher": "Jen",
+   "edition": 2
+ },
+ {
+   "id": 872,
+   "genre": "horror",
+   "title": "Manual of Love 2 (Manuale d'amore (capitoli successivi))",
+   "author": "Sasha",
+   "publisher": "Sax",
+   "edition": 5
+ },
+ {
+   "id": 873,
+   "genre": "Cookbooks",
+   "title": "Ernest Film Festival, The",
+   "author": "Lauraine",
+   "publisher": "Allys",
+   "edition": 4
+ },
+ {
+   "id": 874,
+   "genre": "Children's",
+   "title": "Blithe Spirit",
+   "author": "Launce",
+   "publisher": "Kalila",
+   "edition": 5
+ },
+ {
+   "id": 875,
+   "genre": "Travel",
+   "title": "Nomad (Köshpendiler)",
+   "author": "Dasi",
+   "publisher": "Shena",
+   "edition": 3
+ },
+ {
+   "id": 876,
+   "genre": "Travel",
+   "title": "Land Girls, The",
+   "author": "Rosanne",
+   "publisher": "Roxana",
+   "edition": 1
+ },
+ {
+   "id": 877,
+   "genre": "Health",
+   "title": "Buddha Collapsed Out of Shame",
+   "author": "Hollyanne",
+   "publisher": "Virgilio",
+   "edition": 2
+ },
+ {
+   "id": 878,
+   "genre": "Health",
+   "title": "Westerner, The",
+   "author": "Cordie",
+   "publisher": "Alvina",
+   "edition": 3
+ },
+ {
+   "id": 879,
+   "genre": "Action and Adventure",
+   "title": "Servant, The",
+   "author": "Granny",
+   "publisher": "Nerissa",
+   "edition": 2
+ },
+ {
+   "id": 880,
+   "genre": " Spirituality & New Age",
+   "title": "All Access",
+   "author": "Pansie",
+   "publisher": "Kinsley",
+   "edition": 4
+ },
+ {
+   "id": 881,
+   "genre": "Journals",
+   "title": "Breakin' All the Rules",
+   "author": "Dee",
+   "publisher": "Menard",
+   "edition": 5
+ },
+ {
+   "id": 882,
+   "genre": "Horror",
+   "title": "Scratch",
+   "author": "Jocelyn",
+   "publisher": "Stewart",
+   "edition": 3
+ },
+ {
+   "id": 883,
+   "genre": "Self help",
+   "title": "Don't Think About It (Non Pensarci)",
+   "author": "Myrta",
+   "publisher": "Val",
+   "edition": 5
+ },
+ {
+   "id": 884,
+   "genre": "Art",
+   "title": "Big Girls Don't Cry... They Get Even (Stepkids)",
+   "author": "Esteban",
+   "publisher": "Kellie",
+   "edition": 3
+ },
+ {
+   "id": 885,
+   "genre": "Cookbooks",
+   "title": "Be Kind Rewind",
+   "author": "Marcelline",
+   "publisher": "Merrill",
+   "edition": 1
+ },
+ {
+   "id": 886,
+   "genre": "Poetry",
+   "title": "Barney's Great Adventure",
+   "author": "Gal",
+   "publisher": "Jeffy",
+   "edition": 3
+ },
+ {
+   "id": 887,
+   "genre": "Horror",
+   "title": "The Police Serve the Citizens?",
+   "author": "Tamarra",
+   "publisher": "Ula",
+   "edition": 5
+ },
+ {
+   "id": 888,
+   "genre": "Math",
+   "title": "Great White Silence, The",
+   "author": "Marcello",
+   "publisher": "Crissy",
+   "edition": 3
+ },
+ {
+   "id": 889,
+   "genre": "horror",
+   "title": "Three of Hearts",
+   "author": "Upton",
+   "publisher": "Elena",
+   "edition": 2
+ },
+ {
+   "id": 890,
+   "genre": "Poetry",
+   "title": "How the Grinch Stole Christmas!",
+   "author": "Ivie",
+   "publisher": "Abeu",
+   "edition": 1
+ },
+ {
+   "id": 891,
+   "genre": "Health",
+   "title": "Grand Hotel",
+   "author": "Noah",
+   "publisher": "Kelci",
+   "edition": 1
+ },
+ {
+   "id": 892,
+   "genre": "Dictionaries",
+   "title": "R100",
+   "author": "Jemmie",
+   "publisher": "Marta",
+   "edition": 2
+ },
+ {
+   "id": 893,
+   "genre": "Drama",
+   "title": "Gates of Heaven",
+   "author": "Hart",
+   "publisher": "Mycah",
+   "edition": 2
+ },
+ {
+   "id": 894,
+   "genre": "Cookbooks",
+   "title": "Good Humor Man, The",
+   "author": "Baxter",
+   "publisher": "Giacinta",
+   "edition": 4
+ },
+ {
+   "id": 895,
+   "genre": "Science fiction",
+   "title": "Spring Subway",
+   "author": "Sly",
+   "publisher": "Casey",
+   "edition": 1
+ },
+ {
+   "id": 896,
+   "genre": "Art",
+   "title": "Don't Go Breaking My Heart (Daan gyun naam yu)",
+   "author": "Alica",
+   "publisher": "Kenn",
+   "edition": 3
+ },
+ {
+   "id": 897,
+   "genre": "Dictionaries",
+   "title": "Nightmare City (a.k.a. City of the Walking Dead) (a.k.a. Invasión de los zombies atómicos, La) (Incubo sulla città contaminata)",
+   "author": "Wylie",
+   "publisher": "Cary",
+   "edition": 4
+ },
+ {
+   "id": 898,
+   "genre": "biography",
+   "title": "Warrior's Way, The",
+   "author": "Devan",
+   "publisher": "Elliot",
+   "edition": 3
+ },
+ {
+   "id": 899,
+   "genre": "biography",
+   "title": "Christmas Story 2, A",
+   "author": "Ellissa",
+   "publisher": "Raviv",
+   "edition": 5
+ },
+ {
+   "id": 900,
+   "genre": "Science",
+   "title": "Kabluey",
+   "author": "Adella",
+   "publisher": "Mariellen",
+   "edition": 5
+ },
+ {
+   "id": 901,
+   "genre": "Self help",
+   "title": "Merrily We Live",
+   "author": "Diena",
+   "publisher": "Ransom",
+   "edition": 2
+ },
+ {
+   "id": 902,
+   "genre": "Religion",
+   "title": "I Give It a Year",
+   "author": "Lonny",
+   "publisher": "Irwin",
+   "edition": 1
+ },
+ {
+   "id": 903,
+   "genre": "Math",
+   "title": "Night They Raided Minsky's, The (Night They Invented Striptease, The)",
+   "author": "Nixie",
+   "publisher": "Cornie",
+   "edition": 2
+ },
+ {
+   "id": 904,
+   "genre": "Cookbooks",
+   "title": "Harold and Kumar Go to White Castle",
+   "author": "Astra",
+   "publisher": "Jan",
+   "edition": 4
+ },
+ {
+   "id": 905,
+   "genre": "horror",
+   "title": "Blood Done Sign My Name",
+   "author": "Chan",
+   "publisher": "Ilyssa",
+   "edition": 3
+ },
+ {
+   "id": 906,
+   "genre": "Poetry",
+   "title": "Pulgasari",
+   "author": "Carmela",
+   "publisher": "Cedric",
+   "edition": 1
+ },
+ {
+   "id": 907,
+   "genre": "Diaries",
+   "title": "Ski Patrol",
+   "author": "Sheila-kathryn",
+   "publisher": "Joyous",
+   "edition": 3
+ },
+ {
+   "id": 908,
+   "genre": "Encyclopedias",
+   "title": "My Life Without Me",
+   "author": "Zeb",
+   "publisher": "Vasili",
+   "edition": 2
+ },
+ {
+   "id": 909,
+   "genre": "History",
+   "title": "Burrowing (Man tänker sitt)",
+   "author": "Linnell",
+   "publisher": "Inger",
+   "edition": 3
+ },
+ {
+   "id": 910,
+   "genre": "Satire",
+   "title": "She's the Man",
+   "author": "Spence",
+   "publisher": "Corri",
+   "edition": 3
+ },
+ {
+   "id": 911,
+   "genre": "Art",
+   "title": "Imago mortis",
+   "author": "Leonard",
+   "publisher": "Emmerich",
+   "edition": 2
+ },
+ {
+   "id": 912,
+   "genre": "Journals",
+   "title": "Mine Games",
+   "author": "Marion",
+   "publisher": "Patsy",
+   "edition": 2
+ },
+ {
+   "id": 913,
+   "genre": "History",
+   "title": "Land of Silence and Darkness (Land des Schweigens und der Dunkelheit)",
+   "author": "Dexter",
+   "publisher": "Eran",
+   "edition": 5
+ },
+ {
+   "id": 914,
+   "genre": "Anthology",
+   "title": "Cube of Sugar, A (Ye Habe Ghand)",
+   "author": "Tomaso",
+   "publisher": "Anne",
+   "edition": 1
+ },
+ {
+   "id": 915,
+   "genre": "Journals",
+   "title": "Legacy, The",
+   "author": "Raven",
+   "publisher": "Barb",
+   "edition": 3
+ },
+ {
+   "id": 916,
+   "genre": "Comics",
+   "title": "Woman on the Beach, The",
+   "author": "Hallsy",
+   "publisher": "Hermann",
+   "edition": 1
+ },
+ {
+   "id": 917,
+   "genre": "academic",
+   "title": "Wirey Spindell",
+   "author": "Dunstan",
+   "publisher": "Yardley",
+   "edition": 5
+ },
+ {
+   "id": 918,
+   "genre": "Science fiction",
+   "title": "Lahore",
+   "author": "Meridith",
+   "publisher": "Micah",
+   "edition": 5
+ },
+ {
+   "id": 919,
+   "genre": "Religion",
+   "title": "Sink the Bismark!",
+   "author": "Kelsy",
+   "publisher": "Tamiko",
+   "edition": 4
+ },
+ {
+   "id": 920,
+   "genre": "Diaries",
+   "title": "Prince and the Pauper, The",
+   "author": "Binnie",
+   "publisher": "La verne",
+   "edition": 3
+ },
+ {
+   "id": 921,
+   "genre": "Encyclopedias",
+   "title": "State of Play",
+   "author": "Malachi",
+   "publisher": "Ellie",
+   "edition": 3
+ },
+ {
+   "id": 922,
+   "genre": "Travel",
+   "title": "Anastasia",
+   "author": "Vickie",
+   "publisher": "Kassi",
+   "edition": 1
+ },
+ {
+   "id": 923,
+   "genre": "Children's",
+   "title": "Actress, the Dollars and the Transylvanians, The (Artista, dolarii si Ardelenii)",
+   "author": "Joanna",
+   "publisher": "Cherye",
+   "edition": 3
+ },
+ {
+   "id": 924,
+   "genre": "History",
+   "title": "Courier",
+   "author": "Nevin",
+   "publisher": "Audy",
+   "edition": 5
+ },
+ {
+   "id": 925,
+   "genre": "Satire",
+   "title": "Taken 3",
+   "author": "Leena",
+   "publisher": "Rhoda",
+   "edition": 2
+ },
+ {
+   "id": 926,
+   "genre": "Action and Adventure",
+   "title": "Hotel Rwanda",
+   "author": "Bobine",
+   "publisher": "Tonye",
+   "edition": 2
+ },
+ {
+   "id": 927,
+   "genre": "History",
+   "title": "Wild Blue Yonder, The",
+   "author": "Susanetta",
+   "publisher": "Birgitta",
+   "edition": 3
+ },
+ {
+   "id": 928,
+   "genre": "Health",
+   "title": "Belphecor: Curse of the Mummy (Belphégor - Le fantôme du Louvre)",
+   "author": "Manon",
+   "publisher": "Phylis",
+   "edition": 5
+ },
+ {
+   "id": 929,
+   "genre": "Math",
+   "title": "Prime Suspect: The Lost Child",
+   "author": "Stearn",
+   "publisher": "Yehudit",
+   "edition": 5
+ },
+ {
+   "id": 930,
+   "genre": "Action and Adventure",
+   "title": "The Periwig-Maker",
+   "author": "Ermin",
+   "publisher": "Hester",
+   "edition": 5
+ },
+ {
+   "id": 931,
+   "genre": "Diaries",
+   "title": "Clap, You're Dead",
+   "author": "Dennison",
+   "publisher": "Greer",
+   "edition": 1
+ },
+ {
+   "id": 932,
+   "genre": "Action and Adventure",
+   "title": "Wool Cap, The",
+   "author": "Deina",
+   "publisher": "Joane",
+   "edition": 5
+ },
+ {
+   "id": 933,
+   "genre": "Poetry",
+   "title": "Avalon",
+   "author": "Mitchael",
+   "publisher": "Thorvald",
+   "edition": 4
+ },
+ {
+   "id": 934,
+   "genre": "Art",
+   "title": "Godspeed You! Black Emperor",
+   "author": "Lawrence",
+   "publisher": "Idalia",
+   "edition": 4
+ },
+ {
+   "id": 935,
+   "genre": "Encyclopedias",
+   "title": "Collateral Damage",
+   "author": "Freddie",
+   "publisher": "Taylor",
+   "edition": 4
+ },
+ {
+   "id": 936,
+   "genre": "Anthology",
+   "title": "Well Digger's Daughter, The (La fille du puisatier)",
+   "author": "Aurelea",
+   "publisher": "Ferd",
+   "edition": 5
+ },
+ {
+   "id": 937,
+   "genre": "Art",
+   "title": "An Empress and the Warriors",
+   "author": "Joelie",
+   "publisher": "Elset",
+   "edition": 4
+ },
+ {
+   "id": 938,
+   "genre": "Dictionaries",
+   "title": "White Diamond, The",
+   "author": "Chicky",
+   "publisher": "Kliment",
+   "edition": 1
+ },
+ {
+   "id": 939,
+   "genre": "Science",
+   "title": "Homeward Bound: The Incredible Journey",
+   "author": "Belicia",
+   "publisher": "Gwenora",
+   "edition": 4
+ },
+ {
+   "id": 940,
+   "genre": "Drama",
+   "title": "Taking Chance",
+   "author": "Sigismond",
+   "publisher": "Stephana",
+   "edition": 2
+ },
+ {
+   "id": 941,
+   "genre": "Dictionaries",
+   "title": "Zero Day",
+   "author": "Harv",
+   "publisher": "Sydelle",
+   "edition": 2
+ },
+ {
+   "id": 942,
+   "genre": "Journals",
+   "title": "Cat from Outer Space, The",
+   "author": "Artus",
+   "publisher": "Rock",
+   "edition": 1
+ },
+ {
+   "id": 943,
+   "genre": "Mystery",
+   "title": "Shark Attack",
+   "author": "Menard",
+   "publisher": "Myer",
+   "edition": 4
+ },
+ {
+   "id": 944,
+   "genre": "Satire",
+   "title": "Heart Is Deceitful Above All Things, The",
+   "author": "Merl",
+   "publisher": "Homer",
+   "edition": 1
+ },
+ {
+   "id": 945,
+   "genre": "horror",
+   "title": "I Thank a Fool",
+   "author": "Isak",
+   "publisher": "Kalli",
+   "edition": 3
+ },
+ {
+   "id": 946,
+   "genre": "Cookbooks",
+   "title": "Americathon",
+   "author": "Maggee",
+   "publisher": "Hersch",
+   "edition": 5
+ },
+ {
+   "id": 947,
+   "genre": "horror",
+   "title": "Isi & Disi: Amor a lo bestia",
+   "author": "Jessey",
+   "publisher": "Jobyna",
+   "edition": 2
+ },
+ {
+   "id": 948,
+   "genre": "Romance",
+   "title": "Punisher, The",
+   "author": "Aurelia",
+   "publisher": "Amalita",
+   "edition": 4
+ },
+ {
+   "id": 949,
+   "genre": "Mystery",
+   "title": "Futurama: Bender's Game",
+   "author": "Mady",
+   "publisher": "Marybeth",
+   "edition": 5
+ },
+ {
+   "id": 950,
+   "genre": "Diaries",
+   "title": "Gracie",
+   "author": "Orton",
+   "publisher": "Elizabeth",
+   "edition": 4
+ },
+ {
+   "id": 951,
+   "genre": "Romance",
+   "title": "Charge of the Light Brigade, The",
+   "author": "Burt",
+   "publisher": "Issi",
+   "edition": 2
+ },
+ {
+   "id": 952,
+   "genre": "Health",
+   "title": "Elles",
+   "author": "Jean",
+   "publisher": "Kristina",
+   "edition": 2
+ },
+ {
+   "id": 953,
+   "genre": "Diaries",
+   "title": "Business, The",
+   "author": "Jenilee",
+   "publisher": "Carroll",
+   "edition": 2
+ },
+ {
+   "id": 954,
+   "genre": "Anthology",
+   "title": "America Before Columbus",
+   "author": "Ulberto",
+   "publisher": "Charla",
+   "edition": 5
+ },
+ {
+   "id": 955,
+   "genre": "Guide",
+   "title": "Our Dancing Daughters",
+   "author": "Bartolomeo",
+   "publisher": "Forbes",
+   "edition": 1
+ },
+ {
+   "id": 956,
+   "genre": "Children's",
+   "title": "Most Hated Family in America, The",
+   "author": "Laney",
+   "publisher": "Garrick",
+   "edition": 3
+ },
+ {
+   "id": 957,
+   "genre": "Anthology",
+   "title": "8th Wonderland",
+   "author": "Eberto",
+   "publisher": "Ekaterina",
+   "edition": 2
+ },
+ {
+   "id": 958,
+   "genre": "Children's",
+   "title": "Terminal USA",
+   "author": "Lucias",
+   "publisher": "Ardith",
+   "edition": 4
+ },
+ {
+   "id": 959,
+   "genre": "Diaries",
+   "title": "Behind the Sun (Abril Despedaçado)",
+   "author": "Armin",
+   "publisher": "Lida",
+   "edition": 2
+ },
+ {
+   "id": 960,
+   "genre": "Drama",
+   "title": "Penelope",
+   "author": "Hans",
+   "publisher": "Ingelbert",
+   "edition": 5
+ },
+ {
+   "id": 961,
+   "genre": "Romance",
+   "title": "Family Resemblances (Un air de famille)",
+   "author": "Gerald",
+   "publisher": "Sven",
+   "edition": 4
+ },
+ {
+   "id": 962,
+   "genre": "Art",
+   "title": "T.N.T.",
+   "author": "Gibby",
+   "publisher": "Thaxter",
+   "edition": 2
+ },
+ {
+   "id": 963,
+   "genre": "Mystery",
+   "title": "Shark Night 3D",
+   "author": "Glynn",
+   "publisher": "Binky",
+   "edition": 3
+ },
+ {
+   "id": 964,
+   "genre": "Poetry",
+   "title": "His Regeneration",
+   "author": "Gonzalo",
+   "publisher": "Montgomery",
+   "edition": 3
+ },
+ {
+   "id": 965,
+   "genre": "Journals",
+   "title": "Paris Is Burning",
+   "author": "Mia",
+   "publisher": "Arin",
+   "edition": 4
+ },
+ {
+   "id": 966,
+   "genre": "horror",
+   "title": "Collector, The",
+   "author": "Harmonia",
+   "publisher": "Aube",
+   "edition": 4
+ },
+ {
+   "id": 967,
+   "genre": "Poetry",
+   "title": "How the West Was Fun",
+   "author": "Zacharia",
+   "publisher": "Naoma",
+   "edition": 5
+ },
+ {
+   "id": 968,
+   "genre": " Spirituality & New Age",
+   "title": "Conspiracy of Torture, The (Beatrice Cenci)",
+   "author": "Duncan",
+   "publisher": "Gerhardine",
+   "edition": 2
+ },
+ {
+   "id": 969,
+   "genre": "Science",
+   "title": "Missing",
+   "author": "Sherie",
+   "publisher": "Kari",
+   "edition": 1
+ },
+ {
+   "id": 970,
+   "genre": "Guide",
+   "title": "Insanitarium",
+   "author": "Bryna",
+   "publisher": "David",
+   "edition": 1
+ },
+ {
+   "id": 971,
+   "genre": "Diaries",
+   "title": "I Don't Want to Sleep Alone (Hei yan quan)",
+   "author": "Yorgos",
+   "publisher": "Michaelina",
+   "edition": 3
+ },
+ {
+   "id": 972,
+   "genre": "Comics",
+   "title": "Virginia City",
+   "author": "Deva",
+   "publisher": "Maxim",
+   "edition": 3
+ },
+ {
+   "id": 973,
+   "genre": "Horror",
+   "title": "3, 2, 1... Frankie Go Boom (Frankie Go Boom)",
+   "author": "Clarita",
+   "publisher": "Chrysa",
+   "edition": 1
+ },
+ {
+   "id": 974,
+   "genre": "Math",
+   "title": "Brood, The",
+   "author": "Lowrance",
+   "publisher": "Kienan",
+   "edition": 5
+ },
+ {
+   "id": 975,
+   "genre": "History",
+   "title": "Cotton Mary",
+   "author": "Elissa",
+   "publisher": "Andie",
+   "edition": 2
+ },
+ {
+   "id": 976,
+   "genre": "Health",
+   "title": "Suspect Zero",
+   "author": "Bidget",
+   "publisher": "Anders",
+   "edition": 4
+ },
+ {
+   "id": 977,
+   "genre": " Spirituality & New Age",
+   "title": "Harper Valley P.T.A.",
+   "author": "Jessalyn",
+   "publisher": "Fionna",
+   "edition": 1
+ },
+ {
+   "id": 978,
+   "genre": "Science",
+   "title": "Signal, The",
+   "author": "Tabbie",
+   "publisher": "Jory",
+   "edition": 5
+ },
+ {
+   "id": 979,
+   "genre": "Horror",
+   "title": "Blue Dahlia, The",
+   "author": "Mirabelle",
+   "publisher": "Oralle",
+   "edition": 3
+ },
+ {
+   "id": 980,
+   "genre": "Romance",
+   "title": "Jönssonligan dyker upp igen",
+   "author": "Joshia",
+   "publisher": "Anetta",
+   "edition": 2
+ },
+ {
+   "id": 981,
+   "genre": "horror",
+   "title": "Bridge to the Sun",
+   "author": "Aila",
+   "publisher": "Tabina",
+   "edition": 1
+ },
+ {
+   "id": 982,
+   "genre": "Mystery",
+   "title": "Objective, The",
+   "author": "Jacquelin",
+   "publisher": "Jonie",
+   "edition": 4
+ },
+ {
+   "id": 983,
+   "genre": "Art",
+   "title": "From Dusk Till Dawn 2: Texas Blood Money ",
+   "author": "Lowell",
+   "publisher": "Nerissa",
+   "edition": 3
+ },
+ {
+   "id": 984,
+   "genre": "Religion",
+   "title": "The Woman on Pier 13",
+   "author": "Oriana",
+   "publisher": "Miriam",
+   "edition": 1
+ },
+ {
+   "id": 985,
+   "genre": "Comics",
+   "title": "Sleep, My Love",
+   "author": "Ari",
+   "publisher": "Olly",
+   "edition": 5
+ },
+ {
+   "id": 986,
+   "genre": "Satire",
+   "title": "Philadelphia Experiment II",
+   "author": "Janith",
+   "publisher": "Antonio",
+   "edition": 3
+ },
+ {
+   "id": 987,
+   "genre": "History",
+   "title": "Auto Focus",
+   "author": "Lori",
+   "publisher": "Bibby",
+   "edition": 2
+ },
+ {
+   "id": 988,
+   "genre": "Diaries",
+   "title": "Mrs. Brown (a.k.a. Her Majesty, Mrs. Brown)",
+   "author": "Chiarra",
+   "publisher": "Desdemona",
+   "edition": 4
+ },
+ {
+   "id": 989,
+   "genre": "Diaries",
+   "title": "Broken English",
+   "author": "Maureen",
+   "publisher": "Osgood",
+   "edition": 5
+ },
+ {
+   "id": 990,
+   "genre": "Cookbooks",
+   "title": "Guru, The",
+   "author": "Upton",
+   "publisher": "Quent",
+   "edition": 2
+ },
+ {
+   "id": 991,
+   "genre": "Dictionaries",
+   "title": "Dog Park",
+   "author": "Cissy",
+   "publisher": "Cornelle",
+   "edition": 4
+ },
+ {
+   "id": 992,
+   "genre": "Satire",
+   "title": "4",
+   "author": "Chrysa",
+   "publisher": "Wynn",
+   "edition": 4
+ },
+ {
+   "id": 993,
+   "genre": " Spirituality & New Age",
+   "title": "To Cross the Rubicon",
+   "author": "Flossi",
+   "publisher": "Galvin",
+   "edition": 5
+ },
+ {
+   "id": 994,
+   "genre": "biography",
+   "title": "Three Colors: White (Trzy kolory: Bialy)",
+   "author": "Vanda",
+   "publisher": "Sibeal",
+   "edition": 4
+ },
+ {
+   "id": 995,
+   "genre": "Dictionaries",
+   "title": "12:01 PM",
+   "author": "Ramona",
+   "publisher": "Gris",
+   "edition": 1
+ },
+ {
+   "id": 996,
+   "genre": "Mystery",
+   "title": "Feuerzangenbowle, Die",
+   "author": "Roi",
+   "publisher": "Robinette",
+   "edition": 2
+ },
+ {
+   "id": 997,
+   "genre": "Math",
+   "title": "Phantom Lover, The (Ye ban ge sheng)",
+   "author": "Timmie",
+   "publisher": "Caitlin",
+   "edition": 5
+ },
+ {
+   "id": 998,
+   "genre": "Science fiction",
+   "title": "Legion",
+   "author": "Court",
+   "publisher": "Timothea",
+   "edition": 1
+ },
+ {
+   "id": 999,
+   "genre": "Children's",
+   "title": "Rabbit Without Ears 2 (Zweiohrküken)",
+   "author": "Katerine",
+   "publisher": "Yehudit",
+   "edition": 2
+ },
+ {
+   "id": 1000,
+   "genre": "Anthology",
+   "title": "Sentimental Swordsman, The (To ching chien ko wu ching chien)",
+   "author": "Gilberta",
+   "publisher": "Mallory",
+   "edition": 4
+ }
+]
